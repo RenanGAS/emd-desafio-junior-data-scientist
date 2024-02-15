@@ -4,11 +4,7 @@ def menu():
     st.sidebar.markdown(
         """
         <style>
-        .st-emotion-cache-vk3wp9 {
-            width: 240px !important;
-            max-width: 240px !important;
-        }
-        .st-emotion-cache-1wyffs1 {
+        section[data-testid="stSidebar"] {
             width: 240px !important;
             max-width: 240px !important;
         }
