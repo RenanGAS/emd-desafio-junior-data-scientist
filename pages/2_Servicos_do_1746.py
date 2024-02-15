@@ -1,18 +1,4 @@
-# Copyright (c) Streamlit Inc. (2018-2022) Snowflake Inc. (2022)
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-
-from typing import Any
+import streamlit as st
 
 import numpy as np
 import pandas as pd
@@ -24,21 +10,39 @@ from shapely import wkt
 from geopandas.plotting import plot_polygon_collection
 import matplotlib.patches as mpatches
 
-import streamlit as st
-from streamlit.hello.utils import show_code
+from menu import menu
 
 st.set_page_config(page_title="Serviços do 1746")
+
+menu()
 
 st.write("## Serviços do 1746")
 st.markdown(
     """
-    No site do projeto 1746 (1746.rio), são apresentados 28 serviços que enquadram um ou mais tipos de chamados de acordo com seu tema. Por exemplo, o serviço "Meio Ambiente" inclui os tipos "Arborização", "Danos ao meio ambiente", "Poluição", "Educação Ambiental", etc. Como os tipos dos chamados se referem a um problema em específico, havendo muitos para serem abordados, o agrupamento por tema torna viável uma análise dos serviços mais requisitados pela população. Nesta seção apresenta-se a porcentagem de utilização de 8 serviços em 2011, 2015, 2019 e 2023, bem como uma comparação da média diária de chamados para o serviço "Limpeza Urbana" nestes anos.""")
+    No site do Projeto 1746 ([1746.rio](https://www.1746.rio/hc/pt-br)), são apresentados 28 serviços que enquadram um ou mais tipos de chamados de acordo com seu tema. Por exemplo, o serviço 
+    "Meio Ambiente" inclui os tipos "Arborização", "Danos ao meio ambiente", "Poluição", "Educação Ambiental", etc. Como os tipos dos chamados se referem a um problema 
+    em específico, havendo muitos para serem abordados, o agrupamento por tema torna viável uma análise dos serviços mais requisitados pela população. Nesta seção 
+    apresenta-se a porcentagem de utilização de 8 serviços em 2011, 2015, 2019 e 2023, bem como uma comparação da média diária de chamados para o serviço "Limpeza Urbana" 
+    nestes anos.""")
 
 st.write("#### Comparação da utilização dos serviços ")
 
 st.markdown(
     """
-    Os 8 serviços selecionados são: Conservação, Iluminação Pública, Limpeza Urbana, Meio Ambiente, Obras e Imóveis, Saúde e Vigilância Sanitária, Trânsito e Transporte. Para obtenção da porcentagem de utilização de um serviço num ano, consultou-se os tipos que ele enquadra no site do projeto, fez-se a contagem dos chamados com estes tipos, e dividiu-se o resultado pelo número total de chamados abertos no ano em questão. Destaca-se os serviços Limpeza Urbana, Trânsito e Iluminação Pública como os serviços mais requisitados nos quatro anos. Abaixo são apresentados os gráficos.""")
+    Os 8 serviços selecionados são:
+
+    - Conservação
+    - Iluminação Pública
+    - Limpeza Urbana
+    - Meio Ambiente
+    - Obras e Imóveis
+    - Saúde e Vigilância Sanitária
+    - Trânsito
+    - Transporte
+
+    Para obtenção da porcentagem de utilização de um serviço num ano, foi feita a consulta dos tipos que ele enquadra no site, a contagem dos chamados com estes 
+    tipos, e a divisão do resultado pelo número total de chamados abertos no ano em questão. Destaca-se os serviços Limpeza Urbana, Trânsito e Iluminação Pública como os 
+    serviços mais requisitados nos quatro anos. Abaixo são apresentados os gráficos.""")
 
 fig_porcentagem_servicos = plt.figure(figsize=(14,12))
 
@@ -207,7 +211,7 @@ exp_code_graph5.code(code_graph5, language="python")
 st.write('#### Análise do serviço "Limpeza Urbana"')
 st.markdown(
     """
-    O serviço com mais chamados abertos nos quatro anos, entitulado "Limpeza Urbana", enquadra os seguintes tipos de chamados: 
+    O serviço com mais chamados abertos nos quatro anos, chamado "Limpeza Urbana", enquadra os seguintes tipos de chamados: 
 
     - Acidente com veículos e equipamentos
     - Atendimento ao empregado
@@ -225,7 +229,9 @@ st.markdown(
 
 st.markdown(
     """
-    Para análise da utilização deste serviço nos quatro anos, fez-se gráficos com dados da média diária, por mês, de chamados abertos em cada ano. Do resultado, observa-se que a média, de modo geral, diminui do ano de 2015 para 2019, até 2023. Nota-se que o gráfico de 2011 apresenta o primeiro valor mensal em março, pois foi quando se iniciou o projeto. Abaixo apresenta-se o resultado.""")
+    Para análise da utilização deste serviço nos quatro anos, fez-se gráficos com dados da média diária, por mês, de chamados abertos em cada ano. Do resultado, 
+    observa-se que a média, de modo geral, diminui do ano de 2015 para 2019, até 2023. Nota-se também que o gráfico de 2011 apresenta o primeiro valor mensal em março, 
+    pois foi quando se iniciou o projeto. Abaixo apresenta-se o resultado.""")
 
 fig_media_diaria_por_mes_limpeza_urbana, ax_media_diaria_por_mes_limpeza_urbana = plt.subplots(figsize=(9,5))
 
