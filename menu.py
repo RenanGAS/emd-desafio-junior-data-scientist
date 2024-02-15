@@ -4,6 +4,14 @@ def menu():
     st.sidebar.markdown(
         """
         <style>
+        .st-emotion-cache-vk3wp9 {
+            width: 240px !important;
+            max-width: 240px !important;
+        }
+        .st-emotion-cache-1wyffs1 {
+            width: 240px !important;
+            max-width: 240px !important;
+        }
         div[data-testid="stSidebarContent"] {
             background-image: linear-gradient(#02487c, #02487c);
             color: white;
