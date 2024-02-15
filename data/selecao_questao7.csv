@@ -1,0 +1,1213 @@
+Evento,id_chamado,tipo,subtipo,id_bairro,situacao,tipo_situacao,status
+Carnaval,18329415,Poluição sonora,Perturbação do sossego,93,Não Encerrado,Andamento,Aberto
+Carnaval,18329324,Poluição sonora,Perturbação do sossego,128,Não Encerrado,Andamento,Aberto
+Carnaval,18328889,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Cancelado
+Carnaval,18334332,Poluição sonora,Perturbação do sossego,89,Encerrado,Não constatado,Não constatado
+Carnaval,18333678,Poluição sonora,Perturbação do sossego,144,Encerrado,Não constatado,Não constatado
+Carnaval,18334673,Poluição sonora,Perturbação do sossego,40,Encerrado,Não constatado,Não constatado
+Carnaval,18333244,Poluição sonora,Perturbação do sossego,74,Encerrado,Não constatado,Não constatado
+Carnaval,18333985,Poluição sonora,Perturbação do sossego,26,Encerrado,Não constatado,Não constatado
+Carnaval,18333196,Poluição sonora,Perturbação do sossego,33,Encerrado,Não constatado,Não constatado
+Carnaval,18332736,Poluição sonora,Perturbação do sossego,128,Encerrado,Não constatado,Não constatado
+Carnaval,18332750,Poluição sonora,Perturbação do sossego,63,Encerrado,Não constatado,Não constatado
+Carnaval,18329881,Poluição sonora,Perturbação do sossego,90,Encerrado,Não constatado,Não constatado
+Carnaval,18331114,Poluição sonora,Perturbação do sossego,132,Encerrado,Não constatado,Não constatado
+Carnaval,18329570,Poluição sonora,Perturbação do sossego,64,Encerrado,Não constatado,Não constatado
+Carnaval,18329017,Poluição sonora,Perturbação do sossego,91,Encerrado,Não constatado,Não constatado
+Carnaval,18328428,Poluição sonora,Perturbação do sossego,64,Encerrado,Não constatado,Não constatado
+Carnaval,18328436,Poluição sonora,Perturbação do sossego,64,Encerrado,Não constatado,Não constatado
+Carnaval,18328421,Poluição sonora,Perturbação do sossego,64,Encerrado,Não constatado,Não constatado
+Carnaval,18329531,Poluição sonora,Perturbação do sossego,83,Encerrado,Não constatado,Não constatado
+Carnaval,18328417,Poluição sonora,Perturbação do sossego,64,Encerrado,Não constatado,Não constatado
+Carnaval,18327558,Poluição sonora,Perturbação do sossego,149,Encerrado,Não constatado,Não constatado
+Carnaval,18332434,Poluição sonora,Perturbação do sossego,149,Encerrado,Não constatado,Não constatado
+Carnaval,18331560,Poluição sonora,Perturbação do sossego,52,Encerrado,Não constatado,Não constatado
+Carnaval,18331051,Poluição sonora,Perturbação do sossego,14,Encerrado,Não constatado,Não constatado
+Carnaval,18329291,Poluição sonora,Perturbação do sossego,20,Encerrado,Não constatado,Não constatado
+Carnaval,18334715,Poluição sonora,Perturbação do sossego,40,Encerrado,Não constatado,Não constatado
+Carnaval,18334112,Poluição sonora,Perturbação do sossego,128,Encerrado,Atendido,Fechado com solução
+Carnaval,18334159,Poluição sonora,Perturbação do sossego,128,Encerrado,Atendido,Fechado com solução
+Carnaval,18334315,Poluição sonora,Perturbação do sossego,144,Encerrado,Atendido,Fechado com solução
+Carnaval,18333037,Poluição sonora,Perturbação do sossego,115,Encerrado,Atendido,Fechado com solução
+Carnaval,18332379,Poluição sonora,Perturbação do sossego,63,Encerrado,Atendido,Fechado com solução
+Carnaval,18330287,Poluição sonora,Perturbação do sossego,5,Encerrado,Atendido,Fechado com solução
+Carnaval,18330333,Poluição sonora,Perturbação do sossego,64,Encerrado,Atendido,Fechado com solução
+Carnaval,18331086,Poluição sonora,Perturbação do sossego,98,Encerrado,Atendido,Fechado com solução
+Carnaval,18330343,Poluição sonora,Perturbação do sossego,64,Encerrado,Atendido,Fechado com solução
+Carnaval,18330346,Poluição sonora,Perturbação do sossego,64,Encerrado,Atendido,Fechado com solução
+Carnaval,18330689,Poluição sonora,Perturbação do sossego,90,Encerrado,Atendido,Fechado com solução
+Carnaval,18330353,Poluição sonora,Perturbação do sossego,64,Encerrado,Atendido,Fechado com solução
+Carnaval,18329201,Poluição sonora,Perturbação do sossego,128,Encerrado,Atendido,Fechado com solução
+Carnaval,18329312,Poluição sonora,Perturbação do sossego,128,Encerrado,Atendido,Fechado com solução
+Carnaval,18331212,Poluição sonora,Perturbação do sossego,40,Encerrado,Atendido,Fechado com solução
+Carnaval,18328279,Poluição sonora,Perturbação do sossego,139,Encerrado,Atendido,Fechado com solução
+Carnaval,18334415,Poluição sonora,Perturbação do sossego,26,Encerrado,Atendido,Fechado com solução
+Carnaval,18327681,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18327456,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18327486,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18327522,Poluição sonora,Perturbação do sossego,74,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18327583,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18327467,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18327719,Poluição sonora,Perturbação do sossego,16,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18327706,Poluição sonora,Perturbação do sossego,115,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18327692,Poluição sonora,Perturbação do sossego,129,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18327530,Poluição sonora,Perturbação do sossego,139,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18334227,Poluição sonora,Perturbação do sossego,21,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333877,Poluição sonora,Perturbação do sossego,146,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333430,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333726,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18334033,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18334223,Poluição sonora,Perturbação do sossego,25,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18334341,Poluição sonora,Perturbação do sossego,140,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18334550,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18334310,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333409,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333245,Poluição sonora,Perturbação do sossego,31,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18334660,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18334721,Poluição sonora,Perturbação do sossego,15,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18334487,Poluição sonora,Perturbação do sossego,31,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333739,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18334074,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333561,Poluição sonora,Perturbação do sossego,54,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18334443,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18334204,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333284,Poluição sonora,Perturbação do sossego,8,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333225,Poluição sonora,Perturbação do sossego,137,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18334270,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18334681,Poluição sonora,Perturbação do sossego,16,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333449,Poluição sonora,Perturbação do sossego,54,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18334272,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333228,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333565,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18334727,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333177,Poluição sonora,Perturbação do sossego,38,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331360,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333215,Poluição sonora,Perturbação do sossego,15,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18332453,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18332938,Poluição sonora,Perturbação do sossego,25,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18332630,Poluição sonora,Perturbação do sossego,126,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333175,Poluição sonora,Perturbação do sossego,114,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18332726,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333154,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331317,Poluição sonora,Perturbação do sossego,127,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333207,Poluição sonora,Perturbação do sossego,54,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18332827,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331532,Poluição sonora,Perturbação do sossego,114,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18332881,Poluição sonora,Perturbação do sossego,115,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331319,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333193,Poluição sonora,Perturbação do sossego,16,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331320,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18332454,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18332866,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333135,Poluição sonora,Perturbação do sossego,121,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333199,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333097,Poluição sonora,Perturbação do sossego,32,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331953,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333126,Poluição sonora,Perturbação do sossego,130,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333152,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18332075,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333181,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18332734,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329999,Poluição sonora,Perturbação do sossego,120,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330997,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331115,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331146,Poluição sonora,Perturbação do sossego,122,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330116,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330105,Poluição sonora,Perturbação do sossego,66,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329817,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330751,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329795,Poluição sonora,Perturbação do sossego,70,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331011,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330716,Poluição sonora,Perturbação do sossego,126,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331259,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331255,Poluição sonora,Perturbação do sossego,25,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331231,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330635,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330870,Poluição sonora,Perturbação do sossego,83,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330978,Poluição sonora,Perturbação do sossego,146,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329967,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331074,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329958,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329833,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331110,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331287,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331103,Poluição sonora,Perturbação do sossego,90,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330949,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331251,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331197,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330752,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330701,Poluição sonora,Perturbação do sossego,62,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330954,Poluição sonora,Perturbação do sossego,90,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331116,Poluição sonora,Perturbação do sossego,125,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331295,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330948,Poluição sonora,Perturbação do sossego,38,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330613,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330802,Poluição sonora,Perturbação do sossego,38,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331258,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330300,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330386,Poluição sonora,Perturbação do sossego,38,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329965,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331087,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330963,Poluição sonora,Perturbação do sossego,50,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330439,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331151,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331081,Poluição sonora,Perturbação do sossego,59,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331223,Poluição sonora,Perturbação do sossego,76,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331222,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330619,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331095,Poluição sonora,Perturbação do sossego,125,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331193,Poluição sonora,Perturbação do sossego,17,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331281,Poluição sonora,Perturbação do sossego,139,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330571,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331158,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331117,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331227,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331162,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329840,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331261,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331168,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330160,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331291,Poluição sonora,Perturbação do sossego,161,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331283,Poluição sonora,Perturbação do sossego,89,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330645,Poluição sonora,Perturbação do sossego,124,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331204,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331102,Poluição sonora,Perturbação do sossego,90,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329819,Poluição sonora,Perturbação do sossego,15,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329670,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329637,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18328035,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18328697,Poluição sonora,Perturbação do sossego,16,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18327854,Poluição sonora,Perturbação do sossego,21,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18328508,Poluição sonora,Perturbação do sossego,18,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18328714,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18328631,Poluição sonora,Perturbação do sossego,25,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18327812,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18327868,Poluição sonora,Perturbação do sossego,27,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18327981,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329632,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18328550,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18328809,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329578,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18327948,Poluição sonora,Perturbação do sossego,156,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329572,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329727,Poluição sonora,Perturbação do sossego,76,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329627,Poluição sonora,Perturbação do sossego,110,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329617,Poluição sonora,Perturbação do sossego,43,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329574,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329445,Poluição sonora,Perturbação do sossego,91,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329191,Poluição sonora,Perturbação do sossego,90,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329409,Poluição sonora,Perturbação do sossego,80,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329624,Poluição sonora,Perturbação do sossego,43,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18328955,Poluição sonora,Perturbação do sossego,76,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329603,Poluição sonora,Perturbação do sossego,66,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329659,Poluição sonora,Perturbação do sossego,52,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18328925,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329258,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18328048,Poluição sonora,Perturbação do sossego,125,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329561,Poluição sonora,Perturbação do sossego,131,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18328957,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329615,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18328998,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329482,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18328534,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329774,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329741,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18327808,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18328873,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329041,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329593,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329577,Poluição sonora,Perturbação do sossego,121,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329586,Poluição sonora,Perturbação do sossego,121,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329661,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333161,Poluição sonora,Perturbação do sossego,124,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330875,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331154,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330384,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330967,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329906,Poluição sonora,Perturbação do sossego,84,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330735,Poluição sonora,Perturbação do sossego,141,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330996,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330400,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330924,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18330923,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18331149,Poluição sonora,Perturbação do sossego,25,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329623,Poluição sonora,Perturbação do sossego,105,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329683,Poluição sonora,Perturbação do sossego,89,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329654,Poluição sonora,Perturbação do sossego,42,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18328665,Poluição sonora,Perturbação do sossego,69,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329043,Poluição sonora,Perturbação do sossego,76,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329734,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329490,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18329699,Poluição sonora,Perturbação do sossego,147,Encerrado,Não atendido,Sem possibilidade de atendimento
+Carnaval,18333025,Poluição sonora,Perturbação do sossego,119,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18078140,Poluição sonora,Perturbação do sossego,23,Encerrado,Atendido,Fechado com solução
+Reveillon,18077988,Poluição sonora,Perturbação do sossego,35,Encerrado,Atendido,Fechado com solução
+Reveillon,18077970,Poluição sonora,Perturbação do sossego,35,Encerrado,Atendido,Fechado com solução
+Reveillon,18077984,Poluição sonora,Perturbação do sossego,35,Encerrado,Atendido,Fechado com solução
+Reveillon,18078946,Poluição sonora,Perturbação do sossego,141,Encerrado,Atendido,Fechado com solução
+Reveillon,18078723,Poluição sonora,Perturbação do sossego,5,Não Encerrado,Andamento,Em Andamento
+Reveillon,18077728,Poluição sonora,Perturbação do sossego,14,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078334,Poluição sonora,Perturbação do sossego,17,Não Encerrado,Andamento,Em Andamento
+Reveillon,18075919,Poluição sonora,Perturbação do sossego,20,Não Encerrado,Andamento,Em Andamento
+Reveillon,18075987,Poluição sonora,Perturbação do sossego,20,Não Encerrado,Andamento,Em Andamento
+Reveillon,18077407,Poluição sonora,Perturbação do sossego,20,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078399,Poluição sonora,Perturbação do sossego,20,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079555,Poluição sonora,Perturbação do sossego,20,Não Encerrado,Andamento,Em Andamento
+Reveillon,18075893,Poluição sonora,Perturbação do sossego,20,Não Encerrado,Andamento,Em Andamento
+Reveillon,18075894,Poluição sonora,Perturbação do sossego,24,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079550,Poluição sonora,Perturbação do sossego,24,Não Encerrado,Andamento,Em Andamento
+Reveillon,18075942,Poluição sonora,Perturbação do sossego,25,Não Encerrado,Andamento,Em Andamento
+Reveillon,18075939,Poluição sonora,Perturbação do sossego,25,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078854,Poluição sonora,Perturbação do sossego,25,Não Encerrado,Andamento,Em Andamento
+Reveillon,18077790,Poluição sonora,Perturbação do sossego,25,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079243,Poluição sonora,Perturbação do sossego,33,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079118,Poluição sonora,Perturbação do sossego,34,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079147,Poluição sonora,Perturbação do sossego,36,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078829,Poluição sonora,Perturbação do sossego,36,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079154,Poluição sonora,Perturbação do sossego,36,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078416,Poluição sonora,Perturbação do sossego,36,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079138,Poluição sonora,Perturbação do sossego,36,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078356,Poluição sonora,Perturbação do sossego,45,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078336,Poluição sonora,Perturbação do sossego,63,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079228,Poluição sonora,Perturbação do sossego,71,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078403,Poluição sonora,Perturbação do sossego,74,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078209,Poluição sonora,Perturbação do sossego,74,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078357,Poluição sonora,Perturbação do sossego,75,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079241,Poluição sonora,Perturbação do sossego,76,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079423,Poluição sonora,Perturbação do sossego,76,Não Encerrado,Andamento,Em Andamento
+Reveillon,18075963,Poluição sonora,Perturbação do sossego,77,Não Encerrado,Andamento,Em Andamento
+Reveillon,18077762,Poluição sonora,Perturbação do sossego,83,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078456,Poluição sonora,Perturbação do sossego,83,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079140,Poluição sonora,Perturbação do sossego,89,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078353,Poluição sonora,Perturbação do sossego,106,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078254,Poluição sonora,Perturbação do sossego,119,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079544,Poluição sonora,Perturbação do sossego,128,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078835,Poluição sonora,Perturbação do sossego,128,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078296,Poluição sonora,Perturbação do sossego,132,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079576,Poluição sonora,Perturbação do sossego,132,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079587,Poluição sonora,Perturbação do sossego,132,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079582,Poluição sonora,Perturbação do sossego,139,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078455,Poluição sonora,Perturbação do sossego,141,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078245,Poluição sonora,Perturbação do sossego,141,Não Encerrado,Andamento,Em Andamento
+Reveillon,18075943,Poluição sonora,Perturbação do sossego,146,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078377,Poluição sonora,Perturbação do sossego,161,Não Encerrado,Andamento,Em Andamento
+Reveillon,18078383,Poluição sonora,Perturbação do sossego,161,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079077,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18079072,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18075937,Poluição sonora,Perturbação do sossego,43,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18078420,Poluição sonora,Perturbação do sossego,46,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18078548,Poluição sonora,Perturbação do sossego,49,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18078318,Poluição sonora,Perturbação do sossego,57,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18079335,Poluição sonora,Perturbação do sossego,61,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18077915,Poluição sonora,Perturbação do sossego,63,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18078963,Poluição sonora,Perturbação do sossego,71,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18078672,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18078366,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18078426,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18078428,Poluição sonora,Perturbação do sossego,147,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18078462,Poluição sonora,Perturbação do sossego,22,Encerrado,Não constatado,Não constatado
+Reveillon,18078322,Poluição sonora,Perturbação do sossego,23,Encerrado,Não constatado,Não constatado
+Reveillon,18076842,Poluição sonora,Perturbação do sossego,33,Encerrado,Não constatado,Não constatado
+Reveillon,18076834,Poluição sonora,Perturbação do sossego,33,Encerrado,Não constatado,Não constatado
+Reveillon,18077088,Poluição sonora,Perturbação do sossego,42,Encerrado,Não constatado,Não constatado
+Reveillon,18075910,Poluição sonora,Perturbação do sossego,43,Encerrado,Não constatado,Não constatado
+Reveillon,18078376,Poluição sonora,Perturbação do sossego,43,Encerrado,Não constatado,Não constatado
+Reveillon,18078387,Poluição sonora,Perturbação do sossego,52,Encerrado,Não constatado,Não constatado
+Reveillon,18077761,Poluição sonora,Perturbação do sossego,63,Encerrado,Não constatado,Não constatado
+Reveillon,18078185,Poluição sonora,Perturbação do sossego,63,Encerrado,Não constatado,Não constatado
+Reveillon,18079523,Poluição sonora,Perturbação do sossego,149,Encerrado,Não constatado,Não constatado
+Reveillon,18077935,Poluição sonora,Perturbação do sossego,149,Encerrado,Não constatado,Não constatado
+Reveillon,18079445,Poluição sonora,Perturbação do sossego,149,Encerrado,Não constatado,Não constatado
+Reveillon,18079473,Poluição sonora,Perturbação do sossego,149,Encerrado,Não constatado,Não constatado
+Reveillon,18079637,Poluição sonora,Perturbação do sossego,22,Não Encerrado,Andamento,Aberto
+Reveillon,18079649,Poluição sonora,Perturbação do sossego,5,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079733,Poluição sonora,Perturbação do sossego,14,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079648,Poluição sonora,Perturbação do sossego,5,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080330,Poluição sonora,Perturbação do sossego,161,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080195,Poluição sonora,Perturbação do sossego,1,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079658,Poluição sonora,Perturbação do sossego,20,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080391,Poluição sonora,Perturbação do sossego,24,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080189,Poluição sonora,Perturbação do sossego,25,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080392,Poluição sonora,Perturbação do sossego,24,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079630,Poluição sonora,Perturbação do sossego,33,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080190,Poluição sonora,Perturbação do sossego,25,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079622,Poluição sonora,Perturbação do sossego,27,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080115,Poluição sonora,Perturbação do sossego,38,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079621,Poluição sonora,Perturbação do sossego,27,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080062,Poluição sonora,Perturbação do sossego,24,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080035,Poluição sonora,Perturbação do sossego,24,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079664,Poluição sonora,Perturbação do sossego,20,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079879,Poluição sonora,Perturbação do sossego,114,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079624,Poluição sonora,Perturbação do sossego,73,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079604,Poluição sonora,Perturbação do sossego,76,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080295,Poluição sonora,Perturbação do sossego,89,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079858,Poluição sonora,Perturbação do sossego,70,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080319,Poluição sonora,Perturbação do sossego,64,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079623,Poluição sonora,Perturbação do sossego,101,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080307,Poluição sonora,Perturbação do sossego,51,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079594,Poluição sonora,Perturbação do sossego,100,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080269,Poluição sonora,Perturbação do sossego,128,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079656,Poluição sonora,Perturbação do sossego,119,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080155,Poluição sonora,Perturbação do sossego,128,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080041,Poluição sonora,Perturbação do sossego,132,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080032,Poluição sonora,Perturbação do sossego,132,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080090,Poluição sonora,Perturbação do sossego,128,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080258,Poluição sonora,Perturbação do sossego,128,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080145,Poluição sonora,Perturbação do sossego,128,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079653,Poluição sonora,Perturbação do sossego,122,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080238,Poluição sonora,Perturbação do sossego,128,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079620,Poluição sonora,Perturbação do sossego,127,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080180,Poluição sonora,Perturbação do sossego,128,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079629,Poluição sonora,Perturbação do sossego,128,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079626,Poluição sonora,Perturbação do sossego,125,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080267,Poluição sonora,Perturbação do sossego,140,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080165,Poluição sonora,Perturbação do sossego,147,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079895,Poluição sonora,Perturbação do sossego,149,Não Encerrado,Andamento,Em Andamento
+Reveillon,18080124,Poluição sonora,Perturbação do sossego,139,Não Encerrado,Andamento,Em Andamento
+Reveillon,18079601,Poluição sonora,Perturbação do sossego,33,Encerrado,Não constatado,Não constatado
+Reveillon,18079614,Poluição sonora,Perturbação do sossego,26,Encerrado,Não constatado,Não constatado
+Reveillon,18080382,Poluição sonora,Perturbação do sossego,64,Encerrado,Não constatado,Não constatado
+Reveillon,18079782,Poluição sonora,Perturbação do sossego,132,Encerrado,Não constatado,Não constatado
+Reveillon,18079707,Poluição sonora,Perturbação do sossego,144,Encerrado,Não constatado,Não constatado
+Reveillon,18079616,Poluição sonora,Perturbação do sossego,151,Encerrado,Não constatado,Não constatado
+Reveillon,18079970,Poluição sonora,Perturbação do sossego,149,Encerrado,Atendido,Fechado com solução
+Reveillon,18079972,Poluição sonora,Perturbação do sossego,149,Encerrado,Atendido,Fechado com solução
+Reveillon,18080335,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18080337,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18080341,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18079926,Poluição sonora,Perturbação do sossego,42,Encerrado,Não atendido,Sem possibilidade de atendimento
+Reveillon,18080205,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17662083,Poluição sonora,Perturbação do sossego,12,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17679986,Poluição sonora,Perturbação do sossego,24,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17663234,Poluição sonora,Perturbação do sossego,28,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17684221,Poluição sonora,Perturbação do sossego,42,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17684216,Poluição sonora,Perturbação do sossego,42,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17684220,Poluição sonora,Perturbação do sossego,42,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17684125,Poluição sonora,Perturbação do sossego,43,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17684496,Poluição sonora,Perturbação do sossego,43,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17684395,Poluição sonora,Perturbação do sossego,43,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17684494,Poluição sonora,Perturbação do sossego,43,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17685026,Poluição sonora,Perturbação do sossego,48,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17684132,Poluição sonora,Perturbação do sossego,50,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17662396,Poluição sonora,Perturbação do sossego,59,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17682444,Poluição sonora,Perturbação do sossego,64,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17682502,Poluição sonora,Perturbação do sossego,64,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17682475,Poluição sonora,Perturbação do sossego,64,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17682439,Poluição sonora,Perturbação do sossego,64,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17684949,Poluição sonora,Perturbação do sossego,65,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17661669,Poluição sonora,Perturbação do sossego,66,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17685088,Poluição sonora,Perturbação do sossego,68,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17663056,Poluição sonora,Perturbação do sossego,127,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17661947,Poluição sonora,Perturbação do sossego,144,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17684038,Poluição sonora,Perturbação do sossego,151,Encerrado,Atendido,Fechado com solução
+Rock in Rio,17661509,Poluição sonora,Perturbação do sossego,3,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684440,Poluição sonora,Perturbação do sossego,3,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663500,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684056,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664569,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684131,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661335,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684368,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661458,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664234,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664551,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664560,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664556,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664241,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664707,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682514,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17659216,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661732,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17680159,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684082,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684249,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663290,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661670,Poluição sonora,Perturbação do sossego,5,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661792,Poluição sonora,Perturbação do sossego,7,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684666,Poluição sonora,Perturbação do sossego,7,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663584,Poluição sonora,Perturbação do sossego,7,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663496,Poluição sonora,Perturbação do sossego,9,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17681341,Poluição sonora,Perturbação do sossego,9,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682226,Poluição sonora,Perturbação do sossego,9,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658720,Poluição sonora,Perturbação do sossego,10,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658718,Poluição sonora,Perturbação do sossego,10,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682497,Poluição sonora,Perturbação do sossego,10,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682453,Poluição sonora,Perturbação do sossego,12,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685110,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17681869,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664661,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664657,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664019,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685030,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17683808,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663449,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17659248,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663410,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661847,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661846,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663337,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682531,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682544,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682488,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661720,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664461,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17683477,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17683500,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661848,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17662705,Poluição sonora,Perturbação do sossego,14,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17681564,Poluição sonora,Perturbação do sossego,15,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685258,Poluição sonora,Perturbação do sossego,15,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663478,Poluição sonora,Perturbação do sossego,15,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663177,Poluição sonora,Perturbação do sossego,15,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664674,Poluição sonora,Perturbação do sossego,16,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664646,Poluição sonora,Perturbação do sossego,16,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664678,Poluição sonora,Perturbação do sossego,16,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664705,Poluição sonora,Perturbação do sossego,16,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664650,Poluição sonora,Perturbação do sossego,16,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664639,Poluição sonora,Perturbação do sossego,16,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17681473,Poluição sonora,Perturbação do sossego,17,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17681874,Poluição sonora,Perturbação do sossego,18,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663389,Poluição sonora,Perturbação do sossego,18,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17679482,Poluição sonora,Perturbação do sossego,18,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17659324,Poluição sonora,Perturbação do sossego,18,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17679543,Poluição sonora,Perturbação do sossego,18,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664632,Poluição sonora,Perturbação do sossego,18,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17679952,Poluição sonora,Perturbação do sossego,18,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17681117,Poluição sonora,Perturbação do sossego,18,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661025,Poluição sonora,Perturbação do sossego,18,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17683883,Poluição sonora,Perturbação do sossego,18,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685631,Poluição sonora,Perturbação do sossego,19,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661310,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682493,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661820,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661662,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682638,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682561,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664041,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663543,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682105,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661610,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682106,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17677827,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674592,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661822,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661257,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678633,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685502,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682518,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684007,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663542,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682436,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682634,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682801,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682598,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684559,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682500,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661821,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678408,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678630,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661742,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661375,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661824,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682477,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678541,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661687,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661818,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661823,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17683459,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661816,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664048,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661817,Poluição sonora,Perturbação do sossego,20,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678519,Poluição sonora,Perturbação do sossego,22,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685561,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664598,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682443,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664349,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685584,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685583,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663444,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17675233,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663335,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674906,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685579,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685565,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685580,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17659505,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17675864,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685559,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664637,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664634,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17675609,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685554,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661644,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17679379,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17675607,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684124,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663442,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17677705,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685563,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664588,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663268,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17659765,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678615,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664640,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685572,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664566,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17681915,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684202,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685564,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663468,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685574,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682133,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658272,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682463,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658267,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664508,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685569,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685582,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664643,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664591,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685630,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664571,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685566,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678617,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17675599,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664592,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685543,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663447,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664599,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685106,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664641,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684210,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685553,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664691,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685644,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664633,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685556,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17676859,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664581,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684278,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684246,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17675616,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17675613,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658268,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664583,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678618,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17659517,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17675226,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664490,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664594,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17675595,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674569,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17675597,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17679350,Poluição sonora,Perturbação do sossego,24,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685600,Poluição sonora,Perturbação do sossego,25,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685468,Poluição sonora,Perturbação do sossego,25,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663295,Poluição sonora,Perturbação do sossego,25,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678535,Poluição sonora,Perturbação do sossego,25,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685435,Poluição sonora,Perturbação do sossego,25,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678643,Poluição sonora,Perturbação do sossego,25,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685436,Poluição sonora,Perturbação do sossego,25,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678575,Poluição sonora,Perturbação do sossego,25,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17680675,Poluição sonora,Perturbação do sossego,25,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663464,Poluição sonora,Perturbação do sossego,25,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661683,Poluição sonora,Perturbação do sossego,25,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682422,Poluição sonora,Perturbação do sossego,25,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674858,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663480,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682501,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685621,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661698,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678174,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661812,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661811,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17660292,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685211,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682218,Poluição sonora,Perturbação do sossego,26,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661798,Poluição sonora,Perturbação do sossego,27,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658281,Poluição sonora,Perturbação do sossego,27,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682605,Poluição sonora,Perturbação do sossego,27,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658280,Poluição sonora,Perturbação do sossego,27,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664375,Poluição sonora,Perturbação do sossego,28,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684349,Poluição sonora,Perturbação do sossego,28,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682564,Poluição sonora,Perturbação do sossego,28,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664656,Poluição sonora,Perturbação do sossego,28,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684317,Poluição sonora,Perturbação do sossego,28,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684217,Poluição sonora,Perturbação do sossego,28,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17680263,Poluição sonora,Perturbação do sossego,29,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684695,Poluição sonora,Perturbação do sossego,29,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17680262,Poluição sonora,Perturbação do sossego,29,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663560,Poluição sonora,Perturbação do sossego,29,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17676722,Poluição sonora,Perturbação do sossego,29,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17680261,Poluição sonora,Perturbação do sossego,29,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664685,Poluição sonora,Perturbação do sossego,29,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684700,Poluição sonora,Perturbação do sossego,29,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685124,Poluição sonora,Perturbação do sossego,29,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685641,Poluição sonora,Perturbação do sossego,29,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663408,Poluição sonora,Perturbação do sossego,32,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661685,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17676664,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685372,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684094,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661878,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17660794,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663135,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684098,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682881,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661879,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663005,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682243,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17659426,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17681233,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682557,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682287,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661875,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661995,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682318,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658284,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661877,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17681999,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682570,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17683270,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685499,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17683945,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17679527,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664142,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661786,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682887,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17659904,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661876,Poluição sonora,Perturbação do sossego,33,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684203,Poluição sonora,Perturbação do sossego,34,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658261,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658257,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664244,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684429,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664689,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17683832,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658258,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684354,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682327,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684352,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684391,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658253,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658243,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658252,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682519,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658254,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684428,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678562,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661436,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684346,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684327,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684265,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682539,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658259,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684374,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658251,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658256,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658260,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658255,Poluição sonora,Perturbação do sossego,35,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17662646,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17660030,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663310,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17683061,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664150,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678035,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663441,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17675927,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663446,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17676021,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17683365,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17662441,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17676107,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663520,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682241,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663342,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684011,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17662212,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664528,Poluição sonora,Perturbação do sossego,36,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685392,Poluição sonora,Perturbação do sossego,37,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684336,Poluição sonora,Perturbação do sossego,37,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684130,Poluição sonora,Perturbação do sossego,37,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685308,Poluição sonora,Perturbação do sossego,37,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685494,Poluição sonora,Perturbação do sossego,37,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664673,Poluição sonora,Perturbação do sossego,37,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684226,Poluição sonora,Perturbação do sossego,37,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664228,Poluição sonora,Perturbação do sossego,37,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682510,Poluição sonora,Perturbação do sossego,37,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685578,Poluição sonora,Perturbação do sossego,37,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685341,Poluição sonora,Perturbação do sossego,37,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685323,Poluição sonora,Perturbação do sossego,37,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17680995,Poluição sonora,Perturbação do sossego,37,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664318,Poluição sonora,Perturbação do sossego,38,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17683971,Poluição sonora,Perturbação do sossego,38,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663569,Poluição sonora,Perturbação do sossego,38,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17675138,Poluição sonora,Perturbação do sossego,38,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17683100,Poluição sonora,Perturbação do sossego,38,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684205,Poluição sonora,Perturbação do sossego,38,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663518,Poluição sonora,Perturbação do sossego,38,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664680,Poluição sonora,Perturbação do sossego,40,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664681,Poluição sonora,Perturbação do sossego,40,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664669,Poluição sonora,Perturbação do sossego,40,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17683910,Poluição sonora,Perturbação do sossego,40,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661535,Poluição sonora,Perturbação do sossego,40,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17676599,Poluição sonora,Perturbação do sossego,40,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682938,Poluição sonora,Perturbação do sossego,40,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663297,Poluição sonora,Perturbação do sossego,41,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664668,Poluição sonora,Perturbação do sossego,41,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17681631,Poluição sonora,Perturbação do sossego,41,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664647,Poluição sonora,Perturbação do sossego,42,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663288,Poluição sonora,Perturbação do sossego,42,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661629,Poluição sonora,Perturbação do sossego,42,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664651,Poluição sonora,Perturbação do sossego,42,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664649,Poluição sonora,Perturbação do sossego,42,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664058,Poluição sonora,Perturbação do sossego,43,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17675658,Poluição sonora,Perturbação do sossego,43,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678497,Poluição sonora,Perturbação do sossego,43,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685192,Poluição sonora,Perturbação do sossego,43,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682515,Poluição sonora,Perturbação do sossego,43,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684331,Poluição sonora,Perturbação do sossego,43,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684227,Poluição sonora,Perturbação do sossego,43,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17680063,Poluição sonora,Perturbação do sossego,43,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682462,Poluição sonora,Perturbação do sossego,48,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678673,Poluição sonora,Perturbação do sossego,48,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661838,Poluição sonora,Perturbação do sossego,48,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661772,Poluição sonora,Perturbação do sossego,48,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664544,Poluição sonora,Perturbação do sossego,49,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663373,Poluição sonora,Perturbação do sossego,51,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663589,Poluição sonora,Perturbação do sossego,51,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663590,Poluição sonora,Perturbação do sossego,51,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682527,Poluição sonora,Perturbação do sossego,53,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664263,Poluição sonora,Perturbação do sossego,53,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685103,Poluição sonora,Perturbação do sossego,53,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685377,Poluição sonora,Perturbação do sossego,53,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663471,Poluição sonora,Perturbação do sossego,54,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17681301,Poluição sonora,Perturbação do sossego,55,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17681305,Poluição sonora,Perturbação do sossego,55,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664450,Poluição sonora,Perturbação do sossego,56,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661581,Poluição sonora,Perturbação do sossego,57,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685008,Poluição sonora,Perturbação do sossego,59,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661793,Poluição sonora,Perturbação do sossego,59,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674572,Poluição sonora,Perturbação do sossego,62,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661832,Poluição sonora,Perturbação do sossego,62,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674571,Poluição sonora,Perturbação do sossego,62,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682040,Poluição sonora,Perturbação do sossego,63,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661834,Poluição sonora,Perturbação do sossego,63,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664662,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682624,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685629,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664493,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664626,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664502,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685500,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664578,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685606,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664648,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664518,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685616,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685428,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664479,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685426,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664552,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682578,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664483,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685460,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682575,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661740,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685603,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685524,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685551,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685432,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685544,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682549,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685419,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682625,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682582,Poluição sonora,Perturbação do sossego,64,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684833,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685272,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685605,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685596,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682424,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685457,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664522,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663566,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664521,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685506,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663568,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661764,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685307,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663567,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663559,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685330,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664652,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685542,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663914,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663555,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663575,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685313,Poluição sonora,Perturbação do sossego,65,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663508,Poluição sonora,Perturbação do sossego,66,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682406,Poluição sonora,Perturbação do sossego,66,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674570,Poluição sonora,Perturbação do sossego,67,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663487,Poluição sonora,Perturbação do sossego,68,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664250,Poluição sonora,Perturbação do sossego,68,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664520,Poluição sonora,Perturbação do sossego,68,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664570,Poluição sonora,Perturbação do sossego,68,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684527,Poluição sonora,Perturbação do sossego,68,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674557,Poluição sonora,Perturbação do sossego,69,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674558,Poluição sonora,Perturbação do sossego,69,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674560,Poluição sonora,Perturbação do sossego,69,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674606,Poluição sonora,Perturbação do sossego,69,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674607,Poluição sonora,Perturbação do sossego,69,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682891,Poluição sonora,Perturbação do sossego,69,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674608,Poluição sonora,Perturbação do sossego,69,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685208,Poluição sonora,Perturbação do sossego,69,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664478,Poluição sonora,Perturbação do sossego,69,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678169,Poluição sonora,Perturbação do sossego,69,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674559,Poluição sonora,Perturbação do sossego,69,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17683369,Poluição sonora,Perturbação do sossego,70,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17677726,Poluição sonora,Perturbação do sossego,71,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17683711,Poluição sonora,Perturbação do sossego,73,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17675523,Poluição sonora,Perturbação do sossego,73,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663220,Poluição sonora,Perturbação do sossego,74,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685597,Poluição sonora,Perturbação do sossego,74,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685300,Poluição sonora,Perturbação do sossego,74,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17680989,Poluição sonora,Perturbação do sossego,75,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664116,Poluição sonora,Perturbação do sossego,75,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17680991,Poluição sonora,Perturbação do sossego,75,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664159,Poluição sonora,Perturbação do sossego,75,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682454,Poluição sonora,Perturbação do sossego,75,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682627,Poluição sonora,Perturbação do sossego,76,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664665,Poluição sonora,Perturbação do sossego,76,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664667,Poluição sonora,Perturbação do sossego,76,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663652,Poluição sonora,Perturbação do sossego,76,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664666,Poluição sonora,Perturbação do sossego,76,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663539,Poluição sonora,Perturbação do sossego,76,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661829,Poluição sonora,Perturbação do sossego,76,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661695,Poluição sonora,Perturbação do sossego,76,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17675564,Poluição sonora,Perturbação do sossego,76,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661746,Poluição sonora,Perturbação do sossego,76,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661830,Poluição sonora,Perturbação do sossego,76,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661789,Poluição sonora,Perturbação do sossego,76,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685560,Poluição sonora,Perturbação do sossego,77,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678285,Poluição sonora,Perturbação do sossego,79,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663511,Poluição sonora,Perturbação do sossego,79,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664297,Poluição sonora,Perturbação do sossego,82,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678587,Poluição sonora,Perturbação do sossego,83,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684663,Poluição sonora,Perturbação do sossego,83,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664683,Poluição sonora,Perturbação do sossego,83,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664684,Poluição sonora,Perturbação do sossego,83,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663522,Poluição sonora,Perturbação do sossego,84,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685509,Poluição sonora,Perturbação do sossego,84,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684432,Poluição sonora,Perturbação do sossego,84,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661778,Poluição sonora,Perturbação do sossego,84,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682337,Poluição sonora,Perturbação do sossego,85,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682389,Poluição sonora,Perturbação do sossego,85,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678214,Poluição sonora,Perturbação do sossego,86,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685464,Poluição sonora,Perturbação do sossego,87,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663564,Poluição sonora,Perturbação do sossego,87,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678478,Poluição sonora,Perturbação do sossego,88,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678501,Poluição sonora,Perturbação do sossego,88,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678482,Poluição sonora,Perturbação do sossego,88,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685362,Poluição sonora,Perturbação do sossego,89,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685454,Poluição sonora,Perturbação do sossego,89,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685501,Poluição sonora,Perturbação do sossego,89,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685376,Poluição sonora,Perturbação do sossego,89,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664027,Poluição sonora,Perturbação do sossego,89,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664575,Poluição sonora,Perturbação do sossego,89,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664616,Poluição sonora,Perturbação do sossego,89,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685131,Poluição sonora,Perturbação do sossego,89,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663570,Poluição sonora,Perturbação do sossego,90,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17659671,Poluição sonora,Perturbação do sossego,90,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661721,Poluição sonora,Perturbação do sossego,90,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684353,Poluição sonora,Perturbação do sossego,90,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685364,Poluição sonora,Perturbação do sossego,90,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685585,Poluição sonora,Perturbação do sossego,90,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685172,Poluição sonora,Perturbação do sossego,90,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17659670,Poluição sonora,Perturbação do sossego,90,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682464,Poluição sonora,Perturbação do sossego,90,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685434,Poluição sonora,Perturbação do sossego,90,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685482,Poluição sonora,Perturbação do sossego,91,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685493,Poluição sonora,Perturbação do sossego,91,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684270,Poluição sonora,Perturbação do sossego,93,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684287,Poluição sonora,Perturbação do sossego,93,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684341,Poluição sonora,Perturbação do sossego,93,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684324,Poluição sonora,Perturbação do sossego,93,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684338,Poluição sonora,Perturbação do sossego,93,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684293,Poluição sonora,Perturbação do sossego,93,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684337,Poluição sonora,Perturbação do sossego,93,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661642,Poluição sonora,Perturbação do sossego,97,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682498,Poluição sonora,Perturbação do sossego,97,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684328,Poluição sonora,Perturbação do sossego,98,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663413,Poluição sonora,Perturbação do sossego,99,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682720,Poluição sonora,Perturbação do sossego,100,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684362,Poluição sonora,Perturbação do sossego,101,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17681343,Poluição sonora,Perturbação do sossego,101,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684364,Poluição sonora,Perturbação do sossego,101,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684367,Poluição sonora,Perturbação do sossego,101,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17681312,Poluição sonora,Perturbação do sossego,101,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684366,Poluição sonora,Perturbação do sossego,101,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664664,Poluição sonora,Perturbação do sossego,103,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17681300,Poluição sonora,Perturbação do sossego,103,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674600,Poluição sonora,Perturbação do sossego,103,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684076,Poluição sonora,Perturbação do sossego,106,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664557,Poluição sonora,Perturbação do sossego,108,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663459,Poluição sonora,Perturbação do sossego,108,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685163,Poluição sonora,Perturbação do sossego,109,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682330,Poluição sonora,Perturbação do sossego,109,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664120,Poluição sonora,Perturbação do sossego,110,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658711,Poluição sonora,Perturbação do sossego,110,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663948,Poluição sonora,Perturbação do sossego,110,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661639,Poluição sonora,Perturbação do sossego,114,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678200,Poluição sonora,Perturbação do sossego,114,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663535,Poluição sonora,Perturbação do sossego,115,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682653,Poluição sonora,Perturbação do sossego,115,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684507,Poluição sonora,Perturbação do sossego,115,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17681850,Poluição sonora,Perturbação do sossego,116,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682529,Poluição sonora,Perturbação do sossego,116,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682639,Poluição sonora,Perturbação do sossego,116,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17683780,Poluição sonora,Perturbação do sossego,116,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674585,Poluição sonora,Perturbação do sossego,120,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684335,Poluição sonora,Perturbação do sossego,120,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663995,Poluição sonora,Perturbação do sossego,120,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663788,Poluição sonora,Perturbação do sossego,120,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664139,Poluição sonora,Perturbação do sossego,120,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664136,Poluição sonora,Perturbação do sossego,120,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664138,Poluição sonora,Perturbação do sossego,120,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684365,Poluição sonora,Perturbação do sossego,121,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661757,Poluição sonora,Perturbação do sossego,121,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684360,Poluição sonora,Perturbação do sossego,121,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684361,Poluição sonora,Perturbação do sossego,121,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663393,Poluição sonora,Perturbação do sossego,121,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684363,Poluição sonora,Perturbação do sossego,121,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684152,Poluição sonora,Perturbação do sossego,121,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684359,Poluição sonora,Perturbação do sossego,121,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682485,Poluição sonora,Perturbação do sossego,121,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663377,Poluição sonora,Perturbação do sossego,121,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658371,Poluição sonora,Perturbação do sossego,122,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664472,Poluição sonora,Perturbação do sossego,122,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661785,Poluição sonora,Perturbação do sossego,122,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664690,Poluição sonora,Perturbação do sossego,122,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17680633,Poluição sonora,Perturbação do sossego,122,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661814,Poluição sonora,Perturbação do sossego,122,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658374,Poluição sonora,Perturbação do sossego,122,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17662028,Poluição sonora,Perturbação do sossego,122,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664675,Poluição sonora,Perturbação do sossego,122,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674555,Poluição sonora,Perturbação do sossego,122,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674556,Poluição sonora,Perturbação do sossego,122,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682626,Poluição sonora,Perturbação do sossego,122,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661560,Poluição sonora,Perturbação do sossego,122,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658273,Poluição sonora,Perturbação do sossego,123,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685461,Poluição sonora,Perturbação do sossego,124,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685244,Poluição sonora,Perturbação do sossego,124,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663247,Poluição sonora,Perturbação do sossego,124,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663544,Poluição sonora,Perturbação do sossego,124,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663196,Poluição sonora,Perturbação do sossego,124,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661731,Poluição sonora,Perturbação do sossego,124,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17683994,Poluição sonora,Perturbação do sossego,124,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663103,Poluição sonora,Perturbação do sossego,124,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685033,Poluição sonora,Perturbação do sossego,124,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674700,Poluição sonora,Perturbação do sossego,124,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682631,Poluição sonora,Perturbação do sossego,125,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664096,Poluição sonora,Perturbação do sossego,125,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685375,Poluição sonora,Perturbação do sossego,126,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664353,Poluição sonora,Perturbação do sossego,127,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658447,Poluição sonora,Perturbação do sossego,127,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678426,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685397,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664485,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684822,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661604,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682562,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664506,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664511,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17677244,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661729,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658291,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684544,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684386,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684090,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684277,Poluição sonora,Perturbação do sossego,128,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682426,Poluição sonora,Perturbação do sossego,130,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17680197,Poluição sonora,Perturbação do sossego,130,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661866,Poluição sonora,Perturbação do sossego,131,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661867,Poluição sonora,Perturbação do sossego,131,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661810,Poluição sonora,Perturbação do sossego,131,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661861,Poluição sonora,Perturbação do sossego,131,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17662760,Poluição sonora,Perturbação do sossego,131,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661858,Poluição sonora,Perturbação do sossego,131,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661605,Poluição sonora,Perturbação do sossego,131,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17662692,Poluição sonora,Perturbação do sossego,131,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661842,Poluição sonora,Perturbação do sossego,131,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661865,Poluição sonora,Perturbação do sossego,131,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658242,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17681695,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661796,Poluição sonora,Perturbação do sossego,132,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663523,Poluição sonora,Perturbação do sossego,137,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663528,Poluição sonora,Perturbação do sossego,137,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663526,Poluição sonora,Perturbação do sossego,137,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663521,Poluição sonora,Perturbação do sossego,137,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663527,Poluição sonora,Perturbação do sossego,137,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685589,Poluição sonora,Perturbação do sossego,139,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678638,Poluição sonora,Perturbação do sossego,139,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685390,Poluição sonora,Perturbação do sossego,139,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663144,Poluição sonora,Perturbação do sossego,139,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661383,Poluição sonora,Perturbação do sossego,139,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678658,Poluição sonora,Perturbação do sossego,139,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685498,Poluição sonora,Perturbação do sossego,139,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682530,Poluição sonora,Perturbação do sossego,140,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17677970,Poluição sonora,Perturbação do sossego,140,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663353,Poluição sonora,Perturbação do sossego,140,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682522,Poluição sonora,Perturbação do sossego,140,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17675718,Poluição sonora,Perturbação do sossego,141,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684355,Poluição sonora,Perturbação do sossego,141,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684311,Poluição sonora,Perturbação do sossego,141,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661569,Poluição sonora,Perturbação do sossego,141,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684356,Poluição sonora,Perturbação do sossego,141,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682637,Poluição sonora,Perturbação do sossego,141,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658238,Poluição sonora,Perturbação do sossego,141,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678445,Poluição sonora,Perturbação do sossego,141,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664253,Poluição sonora,Perturbação do sossego,141,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17679414,Poluição sonora,Perturbação do sossego,142,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684376,Poluição sonora,Perturbação do sossego,143,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663499,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17677832,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682620,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17675105,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661738,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682733,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17659076,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664465,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17662235,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663557,Poluição sonora,Perturbação do sossego,144,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17661803,Poluição sonora,Perturbação do sossego,149,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664629,Poluição sonora,Perturbação do sossego,149,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17676449,Poluição sonora,Perturbação do sossego,149,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17678197,Poluição sonora,Perturbação do sossego,149,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682617,Poluição sonora,Perturbação do sossego,149,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685635,Poluição sonora,Perturbação do sossego,149,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663847,Poluição sonora,Perturbação do sossego,149,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17685186,Poluição sonora,Perturbação do sossego,149,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682649,Poluição sonora,Perturbação do sossego,151,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682652,Poluição sonora,Perturbação do sossego,151,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682664,Poluição sonora,Perturbação do sossego,151,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17682659,Poluição sonora,Perturbação do sossego,151,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17674563,Poluição sonora,Perturbação do sossego,153,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17664073,Poluição sonora,Perturbação do sossego,155,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663771,Poluição sonora,Perturbação do sossego,156,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684721,Poluição sonora,Perturbação do sossego,158,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658250,Poluição sonora,Perturbação do sossego,161,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684443,Poluição sonora,Perturbação do sossego,161,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684300,Poluição sonora,Perturbação do sossego,161,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658249,Poluição sonora,Perturbação do sossego,161,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17663465,Poluição sonora,Perturbação do sossego,161,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684292,Poluição sonora,Perturbação do sossego,161,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684444,Poluição sonora,Perturbação do sossego,161,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17684435,Poluição sonora,Perturbação do sossego,164,Encerrado,Não atendido,Sem possibilidade de atendimento
+Rock in Rio,17658734,Poluição sonora,Perturbação do sossego,10,Encerrado,Não constatado,Não constatado
+Rock in Rio,17684731,Poluição sonora,Perturbação do sossego,10,Encerrado,Não constatado,Não constatado
+Rock in Rio,17658725,Poluição sonora,Perturbação do sossego,10,Encerrado,Não constatado,Não constatado
+Rock in Rio,17663632,Poluição sonora,Perturbação do sossego,15,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685102,Poluição sonora,Perturbação do sossego,15,Encerrado,Não constatado,Não constatado
+Rock in Rio,17684357,Poluição sonora,Perturbação do sossego,16,Encerrado,Não constatado,Não constatado
+Rock in Rio,17663298,Poluição sonora,Perturbação do sossego,18,Encerrado,Não constatado,Não constatado
+Rock in Rio,17660052,Poluição sonora,Perturbação do sossego,18,Encerrado,Não constatado,Não constatado
+Rock in Rio,17659874,Poluição sonora,Perturbação do sossego,20,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685034,Poluição sonora,Perturbação do sossego,20,Encerrado,Não constatado,Não constatado
+Rock in Rio,17663657,Poluição sonora,Perturbação do sossego,20,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685547,Poluição sonora,Perturbação do sossego,24,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685575,Poluição sonora,Perturbação do sossego,24,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685577,Poluição sonora,Perturbação do sossego,24,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685546,Poluição sonora,Perturbação do sossego,24,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685549,Poluição sonora,Perturbação do sossego,24,Encerrado,Não constatado,Não constatado
+Rock in Rio,17677555,Poluição sonora,Perturbação do sossego,24,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685295,Poluição sonora,Perturbação do sossego,26,Encerrado,Não constatado,Não constatado
+Rock in Rio,17660721,Poluição sonora,Perturbação do sossego,26,Encerrado,Não constatado,Não constatado
+Rock in Rio,17674604,Poluição sonora,Perturbação do sossego,26,Encerrado,Não constatado,Não constatado
+Rock in Rio,17678512,Poluição sonora,Perturbação do sossego,27,Encerrado,Não constatado,Não constatado
+Rock in Rio,17663160,Poluição sonora,Perturbação do sossego,27,Encerrado,Não constatado,Não constatado
+Rock in Rio,17677761,Poluição sonora,Perturbação do sossego,29,Encerrado,Não constatado,Não constatado
+Rock in Rio,17674562,Poluição sonora,Perturbação do sossego,29,Encerrado,Não constatado,Não constatado
+Rock in Rio,17683923,Poluição sonora,Perturbação do sossego,33,Encerrado,Não constatado,Não constatado
+Rock in Rio,17682884,Poluição sonora,Perturbação do sossego,33,Encerrado,Não constatado,Não constatado
+Rock in Rio,17682882,Poluição sonora,Perturbação do sossego,33,Encerrado,Não constatado,Não constatado
+Rock in Rio,17658942,Poluição sonora,Perturbação do sossego,35,Encerrado,Não constatado,Não constatado
+Rock in Rio,17658949,Poluição sonora,Perturbação do sossego,35,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685521,Poluição sonora,Perturbação do sossego,35,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685122,Poluição sonora,Perturbação do sossego,35,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685550,Poluição sonora,Perturbação do sossego,35,Encerrado,Não constatado,Não constatado
+Rock in Rio,17683592,Poluição sonora,Perturbação do sossego,36,Encerrado,Não constatado,Não constatado
+Rock in Rio,17683599,Poluição sonora,Perturbação do sossego,36,Encerrado,Não constatado,Não constatado
+Rock in Rio,17683798,Poluição sonora,Perturbação do sossego,36,Encerrado,Não constatado,Não constatado
+Rock in Rio,17683595,Poluição sonora,Perturbação do sossego,36,Encerrado,Não constatado,Não constatado
+Rock in Rio,17682727,Poluição sonora,Perturbação do sossego,36,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685410,Poluição sonora,Perturbação do sossego,40,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685511,Poluição sonora,Perturbação do sossego,40,Encerrado,Não constatado,Não constatado
+Rock in Rio,17681072,Poluição sonora,Perturbação do sossego,40,Encerrado,Não constatado,Não constatado
+Rock in Rio,17681075,Poluição sonora,Perturbação do sossego,40,Encerrado,Não constatado,Não constatado
+Rock in Rio,17682524,Poluição sonora,Perturbação do sossego,42,Encerrado,Não constatado,Não constatado
+Rock in Rio,17682552,Poluição sonora,Perturbação do sossego,43,Encerrado,Não constatado,Não constatado
+Rock in Rio,17684656,Poluição sonora,Perturbação do sossego,43,Encerrado,Não constatado,Não constatado
+Rock in Rio,17682604,Poluição sonora,Perturbação do sossego,43,Encerrado,Não constatado,Não constatado
+Rock in Rio,17661765,Poluição sonora,Perturbação do sossego,44,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685346,Poluição sonora,Perturbação do sossego,53,Encerrado,Não constatado,Não constatado
+Rock in Rio,17684378,Poluição sonora,Perturbação do sossego,63,Encerrado,Não constatado,Não constatado
+Rock in Rio,17661754,Poluição sonora,Perturbação do sossego,64,Encerrado,Não constatado,Não constatado
+Rock in Rio,17661726,Poluição sonora,Perturbação do sossego,64,Encerrado,Não constatado,Não constatado
+Rock in Rio,17678546,Poluição sonora,Perturbação do sossego,66,Encerrado,Não constatado,Não constatado
+Rock in Rio,17664636,Poluição sonora,Perturbação do sossego,66,Encerrado,Não constatado,Não constatado
+Rock in Rio,17664644,Poluição sonora,Perturbação do sossego,66,Encerrado,Não constatado,Não constatado
+Rock in Rio,17658529,Poluição sonora,Perturbação do sossego,86,Encerrado,Não constatado,Não constatado
+Rock in Rio,17663445,Poluição sonora,Perturbação do sossego,92,Encerrado,Não constatado,Não constatado
+Rock in Rio,17681302,Poluição sonora,Perturbação do sossego,103,Encerrado,Não constatado,Não constatado
+Rock in Rio,17679247,Poluição sonora,Perturbação do sossego,115,Encerrado,Não constatado,Não constatado
+Rock in Rio,17683303,Poluição sonora,Perturbação do sossego,122,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685125,Poluição sonora,Perturbação do sossego,124,Encerrado,Não constatado,Não constatado
+Rock in Rio,17663184,Poluição sonora,Perturbação do sossego,126,Encerrado,Não constatado,Não constatado
+Rock in Rio,17683934,Poluição sonora,Perturbação do sossego,132,Encerrado,Não constatado,Não constatado
+Rock in Rio,17682703,Poluição sonora,Perturbação do sossego,132,Encerrado,Não constatado,Não constatado
+Rock in Rio,17661873,Poluição sonora,Perturbação do sossego,132,Encerrado,Não constatado,Não constatado
+Rock in Rio,17661874,Poluição sonora,Perturbação do sossego,132,Encerrado,Não constatado,Não constatado
+Rock in Rio,17683933,Poluição sonora,Perturbação do sossego,132,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685224,Poluição sonora,Perturbação do sossego,139,Encerrado,Não constatado,Não constatado
+Rock in Rio,17683927,Poluição sonora,Perturbação do sossego,140,Encerrado,Não constatado,Não constatado
+Rock in Rio,17682738,Poluição sonora,Perturbação do sossego,144,Encerrado,Não constatado,Não constatado
+Rock in Rio,17683676,Poluição sonora,Perturbação do sossego,144,Encerrado,Não constatado,Não constatado
+Rock in Rio,17662067,Poluição sonora,Perturbação do sossego,144,Encerrado,Não constatado,Não constatado
+Rock in Rio,17682609,Poluição sonora,Perturbação do sossego,144,Encerrado,Não constatado,Não constatado
+Rock in Rio,17664558,Poluição sonora,Perturbação do sossego,144,Encerrado,Não constatado,Não constatado
+Rock in Rio,17664553,Poluição sonora,Perturbação do sossego,144,Encerrado,Não constatado,Não constatado
+Rock in Rio,17664568,Poluição sonora,Perturbação do sossego,144,Encerrado,Não constatado,Não constatado
+Rock in Rio,17679633,Poluição sonora,Perturbação do sossego,144,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685253,Poluição sonora,Perturbação do sossego,144,Encerrado,Não constatado,Não constatado
+Rock in Rio,17678557,Poluição sonora,Perturbação do sossego,144,Encerrado,Não constatado,Não constatado
+Rock in Rio,17664564,Poluição sonora,Perturbação do sossego,144,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685619,Poluição sonora,Perturbação do sossego,144,Encerrado,Não constatado,Não constatado
+Rock in Rio,17681811,Poluição sonora,Perturbação do sossego,144,Encerrado,Não constatado,Não constatado
+Rock in Rio,17680070,Poluição sonora,Perturbação do sossego,144,Encerrado,Não constatado,Não constatado
+Rock in Rio,17664710,Poluição sonora,Perturbação do sossego,145,Encerrado,Não constatado,Não constatado
+Rock in Rio,17664711,Poluição sonora,Perturbação do sossego,145,Encerrado,Não constatado,Não constatado
+Rock in Rio,17664435,Poluição sonora,Perturbação do sossego,146,Encerrado,Não constatado,Não constatado
+Rock in Rio,17661706,Poluição sonora,Perturbação do sossego,148,Encerrado,Não constatado,Não constatado
+Rock in Rio,17661728,Poluição sonora,Perturbação do sossego,148,Encerrado,Não constatado,Não constatado
+Rock in Rio,17661702,Poluição sonora,Perturbação do sossego,148,Encerrado,Não constatado,Não constatado
+Rock in Rio,17658835,Poluição sonora,Perturbação do sossego,149,Encerrado,Não constatado,Não constatado
+Rock in Rio,17658841,Poluição sonora,Perturbação do sossego,149,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685107,Poluição sonora,Perturbação do sossego,149,Encerrado,Não constatado,Não constatado
+Rock in Rio,17684264,Poluição sonora,Perturbação do sossego,149,Encerrado,Não constatado,Não constatado
+Rock in Rio,17658846,Poluição sonora,Perturbação do sossego,149,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685153,Poluição sonora,Perturbação do sossego,149,Encerrado,Não constatado,Não constatado
+Rock in Rio,17661805,Poluição sonora,Perturbação do sossego,149,Encerrado,Não constatado,Não constatado
+Rock in Rio,17678499,Poluição sonora,Perturbação do sossego,149,Encerrado,Não constatado,Não constatado
+Rock in Rio,17662854,Poluição sonora,Perturbação do sossego,149,Encerrado,Não constatado,Não constatado
+Rock in Rio,17685286,Poluição sonora,Perturbação do sossego,149,Encerrado,Não constatado,Não constatado
+Rock in Rio,17661807,Poluição sonora,Perturbação do sossego,151,Encerrado,Não constatado,Não constatado
+Rock in Rio,17661222,Poluição sonora,Perturbação do sossego,151,Encerrado,Não constatado,Não constatado
+Rock in Rio,17684442,Poluição sonora,Perturbação do sossego,151,Encerrado,Não constatado,Não constatado
+Rock in Rio,17664211,Poluição sonora,Perturbação do sossego,151,Encerrado,Não constatado,Não constatado
+Rock in Rio,17682411,Poluição sonora,Perturbação do sossego,151,Encerrado,Não constatado,Não constatado
+Rock in Rio,17684441,Poluição sonora,Perturbação do sossego,161,Encerrado,Não constatado,Não constatado
+Rock in Rio,17659781,Poluição sonora,Perturbação do sossego,161,Encerrado,Não constatado,Não constatado
+Rock in Rio,17664573,Poluição sonora,Perturbação do sossego,24,Encerrado,Atendido parcialmente,Fechado com providências
+Rock in Rio,17685407,Poluição sonora,Perturbação do sossego,25,Encerrado,Atendido parcialmente,Fechado com providências
+Rock in Rio,17685348,Poluição sonora,Perturbação do sossego,37,Encerrado,Atendido parcialmente,Fechado com providências
+Rock in Rio,17682608,Poluição sonora,Perturbação do sossego,65,Encerrado,Atendido parcialmente,Fechado com providências
