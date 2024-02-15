@@ -1,6 +1,6 @@
 -- Quantos chamados foram abertos no dia 01/04/2023?
 
-SELECT "01/04/2023" AS Dia, COUNT(*) AS Numero FROM `datario.administracao_servicos_publicos.chamado_1746` WHERE CAST(data_inicio AS DATE) = "2023-04-01";
+SELECT "01/04/2023" AS Dia, COUNT(*) AS Numero FROM `datario.administracao_servicos_publicos.chamado_1746` WHERE data_particao = "2023-04-01" AND CAST(data_inicio AS DATE) = "2023-04-01";
 
 -- Qual o tipo de chamado que teve mais reclamações no dia 01/04/2023?
 
@@ -37,7 +37,7 @@ SELECT "Rock in Rio" AS Evento, id_chamado, tipo, subtipo, id_bairro, situacao, 
 
 SELECT "Carnaval" AS Evento, COUNT(*) AS Numero FROM `datario.administracao_servicos_publicos.chamado_1746` WHERE data_particao = "2023-02-01" AND (CAST(data_inicio AS DATE) BETWEEN "2023-02-18" AND "2023-02-21") AND subtipo = "Perturbação do sossego"
 UNION ALL
-SELECT "Reveillon" AS Evento, COUNT(*) AS Numero FROM `datario.administracao_servicos_publicos.chamado_1746` WHERE (data_particao BETWEEN "2022-12-30" AND "2023-01-01") AND (CAST(data_inicio AS DATE) BETWEEN "2022-12-30" AND "2023-01-01") AND subtipo = "Perturbação do sossego"
+SELECT "Reveillon" AS Evento, COUNT(*) AS Numero FROM `datario.administracao_servicos_publicos.chamado_1746` WHERE (data_particao BETWEEN "2022-12-01" AND "2023-01-01") AND (CAST(data_inicio AS DATE) BETWEEN "2022-12-30" AND "2023-01-01") AND subtipo = "Perturbação do sossego"
 UNION ALL
 SELECT "Rock in Rio" AS Evento, COUNT(*) AS Numero FROM `datario.administracao_servicos_publicos.chamado_1746` WHERE data_particao = "2022-09-01" AND ((CAST(data_inicio AS DATE) BETWEEN "2022-09-02" AND "2022-09-04") OR (CAST(data_inicio AS DATE) BETWEEN "2022-09-08" AND "2022-09-11")) AND subtipo = "Perturbação do sossego";
 
