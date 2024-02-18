@@ -25,11 +25,11 @@ st.markdown(
 st.write("## Questionário")
 st.markdown(
     """
-    Para solução das questões foi utilizado o atributo `data_particao` para otimização das consultas e transformações. O conjunto se encontra particionado por mês, e esse atributo 
+    Para solução das questões foi utilizado o atributo `data_particao` para otimização das consultas e manipulação de dados. O conjunto se encontra particionado por mês, e esse atributo 
     é utilizado para registrar a data da partição de um chamado (ex. 2024-01-01, 2024-02-01, 2024-03-01, etc.). Assim, ao ser definido uma data de partição na cláusula 
     `WHERE` de uma consulta ou no filtro de um DataFrame, o espaço de busca diminui consideravelmente.
     
-    Acompanhado das respostas está disponível o script SQL e o código em Python utilizado (Veja também em `analise_sql.sql` e `analise_python.ipynb`). Da mesma forma, mostra-se os scripts SQLs para obtenção dos dados exibidos nos gráficos, 
+    Acompanhado das respostas está disponível o script SQL e o código em Python utilizado (veja também em `analise_sql.sql` e `analise_python.ipynb`). Da mesma forma, mostra-se os scripts SQLs para obtenção dos dados exibidos nos gráficos, 
     e o código em Python para geração dos mesmos.""")
 
 with st.container(border=True):
@@ -406,15 +406,15 @@ with st.container(border=True):
     py_ans5 = '''
     num_chamados_sem_bairro = 0
 
-    # Percorre os chamados feitos no dia alvo, à procura de um chamado se bairro associado
-    for i in range(numero_chamados_diaalvo):
-        id_bairro = chamados_diaalvo.iat[i, 1]
+# Percorre os chamados feitos no dia alvo, à procura de um chamado se bairro associado
+for i in range(numero_chamados_diaalvo):
+    id_bairro = chamados_diaalvo.iat[i, 1]
 
-        if id_bairro == None:
-            num_chamados_sem_bairro += 1
-            #print(chamados_diaalvo.iloc[i][0:2])
+    if id_bairro == None:
+        num_chamados_sem_bairro += 1
+        #print(chamados_diaalvo.iloc[i][0:2])
 
-    print("\nNúmero de chamados sem bairro:", num_chamados_sem_bairro)
+print(num_chamados_sem_bairro)
     '''
     exp_py_ans5.code(py_ans5, language="python")
 
@@ -651,7 +651,7 @@ with st.container(border=True):
                 dados_data = dados_particao[dados_particao["data_inicio"].dt.date == data]
                 selecao_chamados_subtipo_eventos.extend(dados_data[dados_data["subtipo"] == "Perturbação do sossego"].values.tolist())
 
-        df_selecao_chamados_subtipo_eventos = pd.DataFrame(selecao_chamados_subtipo_eventos, columns=["tipo", "subtipo", "id_bairro", "data_inicio", "data_particao"])
+    df_selecao_chamados_subtipo_eventos = pd.DataFrame(selecao_chamados_subtipo_eventos, columns=["tipo", "subtipo", "id_bairro", "data_inicio", "data_particao"])
 
     print(df_selecao_chamados_subtipo_eventos.head())
     print("Número de linhas: ", df_selecao_chamados_subtipo_eventos.shape[0])
