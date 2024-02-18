@@ -17,14 +17,14 @@ def run():
       Este site foi criado para o desafio técnico do Escritório Municipal de Dados do Rio de Janeiro, para concorrer à vaga de Cientista de Dados Júnior.
       """)
 
-    st.write("## Estrutura do App")
+    st.write("## Menu")
     
     st.markdown(
       """
       - **Sobre o 1746**: apresentação do **Projeto 1746**.
 
-      - **Desafio**: questionário sobre o banco de dados do **Projeto 1746**, resolvido através da plataforma **BigQuery**, utilizando SQL. 
-      Também foram adicionados gráficos e análises dentro do contexto das questões do questionário. 
+      - **Desafio**: questionário sobre o banco de dados do **Projeto 1746**, resolvido através das plataformas **BigQuery** e **Google Colab**, utilizando SQL e Python. 
+      Também foram adicionados gráficos e análises dentro do contexto das questões do questionário.
 
       - **Serviços do 1746**: análise da base de dados em relação ao agrupamento dos chamados como **Serviços**, presente no site [1746.rio](https://www.1746.rio/hc/pt-br).
       """)

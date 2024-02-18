@@ -19,17 +19,18 @@ menu()
 st.write("## Desafio")
 st.markdown(
     """
-    Como desafio foi proposto a solução de questões sobre a base de dados do 1746, utilizando SQL, e a criação de visualizações de dados para as perguntas e para 
+    Como desafio foi proposto a solução de questões sobre a base de dados do 1746, utilizando SQL e Python, e a criação de visualizações de dados para as perguntas e para 
     análises criadas por conta do candidato.""")
 
 st.write("## Questionário")
 st.markdown(
     """
-    Para solução das questões foi utilizado o atributo `data_particao` para otimização das consultas. O conjunto se encontra particionado por mês, e esse atributo 
+    Para solução das questões foi utilizado o atributo `data_particao` para otimização das consultas e transformações. O conjunto se encontra particionado por mês, e esse atributo 
     é utilizado para registrar a data da partição de um chamado (ex. 2024-01-01, 2024-02-01, 2024-03-01, etc.). Assim, ao ser definido uma data de partição na cláusula 
-    `WHERE` de uma consulta, o espaço de busca diminui consideravelmente.
+    `WHERE` de uma consulta ou no filtro de um DataFrame, o espaço de busca diminui consideravelmente.
     
-    Acompanhado das respostas está disponível o script SQL utilizado. Da mesma forma, também se encontra os scripts SQLs para obtenção dos dados exibidos nos gráficos.""")
+    Acompanhado das respostas está disponível o script SQL e o código em Python utilizado (Veja também em `analise_sql.sql` e `analise_python.ipynb`). Da mesma forma, mostra-se os scripts SQLs para obtenção dos dados exibidos nos gráficos, 
+    e o código em Python para geração dos mesmos.""")
 
 with st.container(border=True):
     st.write("##### 1. Quantos chamados foram abertos no dia 01/04/2023?")
@@ -45,6 +46,26 @@ with st.container(border=True):
         WHERE data_particao = "2023-04-01" AND CAST(data_inicio AS DATE) = "2023-04-01";
     '''
     exp_sql_ans1.code(sql_ans1, language="sql")
+
+    exp_py_ans1 = st.expander("Código")
+    py_ans1 = '''
+    chamados_marco_abril["data_particao"].astype("datetime64")
+
+    particao_abril = datetime.date(2023, 4, 1)
+
+    # Seleção dos chamados com data_particao == "2023-04-01"
+    chamados_abril = chamados_marco_abril[chamados_marco_abril["data_particao"] == particao_abril]
+
+    dia_alvo = datetime.date(2023, 4, 1)
+
+    # Seleção dos chamados com data_inicio == "2023-04-01"
+    chamados_diaalvo = chamados_abril[(chamados_abril["data_inicio"].dt.date).values == dia_alvo]
+
+    numero_chamados_diaalvo = len(chamados_diaalvo)
+
+    print(numero_chamados_diaalvo)
+    '''
+    exp_py_ans1.code(py_ans1, language="python")
 
     with st.container(border=True):
         st.markdown(
@@ -107,20 +128,40 @@ with st.container(border=True):
     '''
     exp_code_graph1.code(code_graph1, language="python")
 
-    st.write("##### 2. Qual o tipo de chamado que teve mais reclamações no dia 01/04/2023?")
+    st.write("##### 2. Qual o tipo de chamado que mais teve chamados abertos no dia 01/04/2023?")
 
     ans2 = st.container(border=True)
     ans2.markdown(
         """
-        Nenhum chamado teve reclamações neste dia. Para verificação, agrupou-se os chamados por `tipo`, fez-se a soma do campo `reclamacoes` de cada grupo, em seguida a 
-        ordenação decrescente dos tipos por soma de reclamações (do tipo com mais reclamações para o com menos) e selecionou-se o primeiro.""")
+        O tipo com mais chamados abertos neste dia foi "Poluição Sonora", com 24 chamados. Para verificação, agrupou-se os chamados por `tipo`, fez-se a contagem dos chamados de cada grupo, em seguida a 
+        ordenação decrescente dos tipos por número total de chamados (do tipo com mais chamados para o com menos) e selecionou-se o primeiro.""")
 
     exp_sql_ans2 = st.expander("Script SQL")
     sql_ans2 = '''
-    SELECT tipo AS Tipo, SUM(reclamacoes) AS Numero FROM `datario.administracao_servicos_publicos.chamado_1746` 
+    SELECT tipo AS Tipo, COUNT(*) AS Numero FROM `datario.administracao_servicos_publicos.chamado_1746`
         WHERE data_particao = "2023-04-01" AND CAST(data_inicio AS DATE) = "2023-04-01" GROUP BY tipo ORDER BY Numero DESC LIMIT 1;
     '''
     exp_sql_ans2.code(sql_ans2, language="sql")
+
+    exp_py_ans2 = st.expander("Código")
+    py_ans2 = '''
+    tipo_maior_soma = ""
+    maior_soma = 0
+
+    # Tipos de chamados feitos em data_inicio == "2023-04-01"
+    tipos_chamados_diaalvo = chamados_diaalvo["tipo"].unique()
+
+    # Procura do tipo com mais chamados no dia alvo
+    for tipo in tipos_chamados_diaalvo:
+        soma = (chamados_diaalvo["tipo"] == tipo).sum()
+
+        if soma > maior_soma:
+            maior_soma = soma
+            tipo_maior_soma = tipo
+
+    print(tipo_maior_soma, maior_soma)
+    '''
+    exp_py_ans2.code(py_ans2, language="python")
 
     st.write("##### 3. Quais os nomes dos 3 bairros que mais tiveram chamados abertos nesse dia?")
 
@@ -140,6 +181,38 @@ with st.container(border=True):
     '''
     exp_sql_ans3.code(sql_ans3, language="sql")
 
+    exp_py_ans3 = st.expander("Código")
+    py_ans3 = '''
+    # Lista de Ids dos bairros da cidade
+    ids_bairros = bairros["id_bairro"]
+
+    # Construção de um dicionário com o Id de um bairro como chave, e o número de chamados
+    # feitos no mesmo (no dia alvo) como valor.
+    rank_bairros = {
+        id_bairro: (chamados_diaalvo["id_bairro"] == id_bairro).sum()
+        for id_bairro
+        in ids_bairros
+        }
+
+    # Ordenação das entradas do dicionário por número de chamados (bairro[1]).
+    # bairro[0] equivale ao Id do bairro.
+    rank_bairros = sorted(rank_bairros.items(), key = lambda bairro: bairro[1])
+
+    # Percorre os três últimos elementos do dicionário (rank_bairros[-3:]) para formar
+    # tuplas do tipo (nome_bairro, numero_chamados).
+    # bairros[bairros["id_bairro"] == bairro[0]] seleciona a linha de um bairro por
+    # comparação de Ids.
+    # .iat[0, 1] seleciona o nome do bairro.
+    top_3_bairros = [
+        (bairros[bairros["id_bairro"] == bairro[0]].iat[0, 1], bairro[1])
+        for bairro
+        in rank_bairros[-3:]
+        ]
+
+    print(top_3_bairros)
+    '''
+    exp_py_ans3.code(py_ans3, language="python")
+
     st.write("##### 4. Qual o nome da subprefeitura com mais chamados abertos nesse dia?")
 
     ans4 = st.container(border=True)
@@ -156,6 +229,42 @@ with st.container(border=True):
         WHERE CHAMADO1746.data_particao = "2023-04-01" AND CAST(CHAMADO1746.data_inicio AS DATE) = "2023-04-01" GROUP BY BAIRRO.subprefeitura ORDER BY Numero DESC LIMIT 1;
     '''
     exp_sql_ans4.code(sql_ans4, language="sql")
+
+    exp_py_ans4 = st.expander("Código")
+    py_ans4 = '''
+    # Lista dos nomes das prefeituras
+    subprefeituras = bairros["subprefeitura"].unique()
+
+    # Dicionário (1) com o Id de um bairro como chave e o nome da sua subprefeitura como valor
+    relacao_id_subprefeitura = bairros.set_index("id_bairro")["subprefeitura"].to_dict()
+
+    # Inicializa dicionário (2). Terá nomes de subprefeituras como chave e o número de
+    # chamados feitos nas mesmas (no dia alvo) como valor.
+    contagem_chamados_subprefeitura_diaalvo = {
+        subprefeitura: 0
+        for subprefeitura
+        in subprefeituras
+    }
+
+    # Percorre chamados feitos no dia alvo
+    for i in range(numero_chamados_diaalvo):
+        id_bairro = chamados_diaalvo.iat[i, 1]
+
+        if id_bairro == None:
+            continue
+
+        # Utiliza dicionário (1) para recuperar o nome da subprefeitura do bairro
+        subprefeitura = relacao_id_subprefeitura[id_bairro]
+
+        # Utiliza dicionário (2) para incrementar a contagem da subprefeitura em questão
+        contagem_chamados_subprefeitura_diaalvo[subprefeitura] += 1
+
+    # Ordenação do dicionário (2) por número de chamados
+    contagem_chamados_subprefeitura_diaalvo = sorted(contagem_chamados_subprefeitura_diaalvo.items(), key = lambda contagem : contagem[1])
+
+    print(contagem_chamados_subprefeitura_diaalvo[-1])
+    '''
+    exp_py_ans4.code(py_ans4, language="python")
 
     with st.container(border=True):
         st.markdown(
@@ -293,6 +402,22 @@ with st.container(border=True):
     '''
     exp_sql_ans5.code(sql_ans5, language="sql")
 
+    exp_py_ans5 = st.expander("Código")
+    py_ans5 = '''
+    num_chamados_sem_bairro = 0
+
+    # Percorre os chamados feitos no dia alvo, à procura de um chamado se bairro associado
+    for i in range(numero_chamados_diaalvo):
+        id_bairro = chamados_diaalvo.iat[i, 1]
+
+        if id_bairro == None:
+            num_chamados_sem_bairro += 1
+            #print(chamados_diaalvo.iloc[i][0:2])
+
+    print("\nNúmero de chamados sem bairro:", num_chamados_sem_bairro)
+    '''
+    exp_py_ans5.code(py_ans5, language="python")
+
     st.write('##### 6. Quantos chamados com o subtipo "Perturbação do sossego" foram abertos desde 01/01/2022 até 31/12/2023?')
 
     ans6 = st.container(border=True)
@@ -307,6 +432,30 @@ with st.container(border=True):
         WHERE (data_particao BETWEEN "2022-01-01" AND "2023-12-01") AND subtipo = "Perturbação do sossego";
     '''
     exp_sql_ans6.code(sql_ans6, language="sql")
+
+    exp_py_ans6 = st.expander("Código")
+    py_ans6 = '''
+    # Lista das partições existentes do início de 2022 até o fim de 2023 (todas no formato YYYY-MM-01)
+    data_particoes = pd.date_range(start="01/01/2022",end="31/12/2023", freq="MS").date
+
+    chamados_2021_2022_2023["data_particao"].astype("datetime64")
+
+    # Contagem do número de chamados feitos em cada partição.
+    # chamados_2021_2022_2023["data_particao"] == particao identifica as linhas que contém chamados com data_particao = particao
+    # com o valor True, e as demais com False.
+    # (chamados_2021_2022_2023[filtro_anterior]["subtipo"] == "Perturbação do sossego").values.tolist()
+    # seleciona as linhas do DataFrame correspondentes aos valores True, e identifica as linhas com chamados do subtipo "Perturbação do sossego"
+    # com valor True, e as demais com False.
+    # sum(operacoes_acima) resulta no número de chamados numa particao. Valores True somam + 1, e False valem 0.
+    contagem_chamados_particoes = [
+        sum((chamados_2021_2022_2023[chamados_2021_2022_2023["data_particao"] == particao]["subtipo"] == "Perturbação do sossego").values.tolist())
+        for particao
+        in data_particoes
+    ]
+
+    print(sum(contagem_chamados_particoes))
+    '''
+    exp_py_ans6.code(py_ans6, language="python")
 
     with st.container(border=True):
         st.markdown(
@@ -409,6 +558,106 @@ with st.container(border=True):
     '''
     exp_sql_ans7.code(sql_ans7, language="sql")
 
+    exp_py_ans7 = st.expander("Código")
+    py_ans7 = '''
+    dados_reveillon = eventos.loc[eventos["evento"] == "Reveillon"]
+    dados_carnaval = eventos.loc[eventos["evento"] == "Carnaval"]
+    dados_rockrio = eventos.loc[eventos["evento"] == "Rock in Rio"]
+
+    periodo_reveillon = []
+
+    # Este e os dois loops abaixo registram os períodos de cada evento. Por exemplo, o Reveillon e o Carnaval
+    # apresentam um só período cada (Reveillon: 2022-12-30 a 2023-01-01, Carnaval: 2023-02-18 a 2023-02-21).
+    # Já o Rock in Rio apresenta dois: 2022-09-08 a 2022-09-11, e 2022-09-02 a 2022-09-04.
+    for i in range(len(dados_reveillon)):
+        periodo_reveillon.append(pd.date_range(dados_reveillon.iat[i, 0], dados_reveillon.iat[i, 1]).date.tolist())
+
+    periodo_carnaval = []
+    for i in range(len(dados_carnaval)):
+        periodo_carnaval.append(pd.date_range(dados_carnaval.iat[i, 0], dados_carnaval.iat[i, 1]).date.tolist())
+
+    periodo_rockrio = []
+    for i in range(len(dados_rockrio)):
+        periodo_rockrio.append(pd.date_range(dados_rockrio.iat[i, 0], dados_rockrio.iat[i, 1]).date.tolist())
+
+    # Este e os dois loops abaixo definem as partições necessárias para as consultas de
+    # cada evento. Por exemplo, o Carnaval precisará da partição 2023-02-01, e o Rock in Rio
+    # da partição 2022-09-01. Já o Reveillon, fará uso das partições 2022-12-01 e 2023-01-01.
+    set_particoes_reveillon = set()
+    for i in range(len(periodo_reveillon)):
+        particoes_periodo = [
+            pd.to_datetime(data).to_numpy().astype('datetime64[M]')
+            for data
+            in periodo_reveillon[i]
+        ]
+        set_particoes_reveillon.update(particoes_periodo)
+
+    list_particoes_reveillon = list(set_particoes_reveillon)
+
+    set_particoes_carnaval = set()
+    for i in range(len(periodo_carnaval)):
+        particoes_periodo = [
+            pd.to_datetime(data).to_numpy().astype('datetime64[M]')
+            for data
+            in periodo_carnaval[i]
+        ]
+        set_particoes_carnaval.update(particoes_periodo)
+
+    list_particoes_carnaval = list(set_particoes_carnaval)
+
+    set_particoes_rockrio = set()
+    for i in range(len(periodo_rockrio)):
+        particoes_periodo = [
+            pd.to_datetime(data).to_numpy().astype('datetime64[M]')
+            for data
+            in periodo_rockrio[i]
+        ]
+        set_particoes_rockrio.update(particoes_periodo)
+
+    list_particoes_rockrio = list(set_particoes_rockrio)
+
+    # Armazenará o resultado da questão: chamados do subtipo "Perturbação do sossego" feitos nos eventos
+    selecao_chamados_subtipo_eventos = []
+
+    # Este e os dois loops de mesma identação abaixo, adicionam ao resultado, os chamados com o determinado
+    # subtipo em cada evento.
+    for particao in list_particoes_reveillon:
+
+        # Seleciona os chamados de uma partição do evento
+        dados_particao = chamados_2021_2022_2023[chamados_2021_2022_2023["data_particao"] == particao]
+
+        # Um evento tem um ou mais períodos, e cada período tem um ou mais dias.
+        for periodo in periodo_reveillon:
+            for data in periodo:
+                # Armazena os chamados feitos num dia do evento.
+                dados_data = dados_particao[dados_particao["data_inicio"].dt.date == data]
+
+                # Adiciona ao resultado, os chamados do determinado subtipo feitos neste dia
+                selecao_chamados_subtipo_eventos.extend(dados_data[dados_data["subtipo"] == "Perturbação do sossego"].values.tolist())
+
+    for particao in list_particoes_carnaval:
+        dados_particao = chamados_2021_2022_2023[chamados_2021_2022_2023["data_particao"] == particao]
+
+        for periodo in periodo_carnaval:
+            for data in periodo:
+                dados_data = dados_particao[dados_particao["data_inicio"].dt.date == data]
+                selecao_chamados_subtipo_eventos.extend(dados_data[dados_data["subtipo"] == "Perturbação do sossego"].values.tolist())
+
+    for particao in list_particoes_rockrio:
+        dados_particao = chamados_2021_2022_2023[chamados_2021_2022_2023["data_particao"] == particao]
+
+        for periodo in periodo_rockrio:
+            for data in periodo:
+                dados_data = dados_particao[dados_particao["data_inicio"].dt.date == data]
+                selecao_chamados_subtipo_eventos.extend(dados_data[dados_data["subtipo"] == "Perturbação do sossego"].values.tolist())
+
+        df_selecao_chamados_subtipo_eventos = pd.DataFrame(selecao_chamados_subtipo_eventos, columns=["tipo", "subtipo", "id_bairro", "data_inicio", "data_particao"])
+
+    print(df_selecao_chamados_subtipo_eventos.head())
+    print("Número de linhas: ", df_selecao_chamados_subtipo_eventos.shape[0])
+    '''
+    exp_py_ans7.code(py_ans7, language="python")
+
     st.write('##### 8. Quantos chamados desse subtipo foram abertos em cada evento?')
 
     ans8 = st.container(border=True)
@@ -445,6 +694,111 @@ with st.container(border=True):
         WHERE CHAMADO1746.data_particao = "2022-09-01" AND EVENTOS.evento = "Rock in Rio" AND subtipo = "Perturbação do sossego";
     '''
     exp_sql_ans8.code(sql_ans8, language="sql")
+
+    exp_py_ans8 = st.expander("Código")
+    py_ans8 = '''
+    dados_reveillon = eventos.loc[eventos["evento"] == "Reveillon"]
+    dados_carnaval = eventos.loc[eventos["evento"] == "Carnaval"]
+    dados_rockrio = eventos.loc[eventos["evento"] == "Rock in Rio"]
+
+    # Asim como na questão 7, este e os dois loops abaixo definem o período dos eventos.
+    periodo_reveillon = []
+    for i in range(len(dados_reveillon)):
+        datas_reveillon = pd.date_range(dados_reveillon.iat[i, 0], dados_reveillon.iat[i, 1]).date.tolist()
+        periodo_reveillon.append(datas_reveillon)
+
+    periodo_carnaval = []
+    for i in range(len(dados_carnaval)):
+        datas_carnaval = pd.date_range(dados_carnaval.iat[i, 0], dados_carnaval.iat[i, 1]).date.tolist()
+        periodo_carnaval.append(datas_carnaval)
+
+    periodo_rockrio = []
+    for i in range(len(dados_rockrio)):
+        datas_rockrio = pd.date_range(dados_rockrio.iat[i, 0], dados_rockrio.iat[i, 1]).date.tolist()
+        periodo_rockrio.append(datas_rockrio)
+
+    # Definição das partições para cada evento
+    set_particoes_reveillon = set()
+    for i in range(len(periodo_reveillon)):
+        particoes_periodo = [
+            pd.to_datetime(data).to_numpy().astype('datetime64[M]')
+            for data
+            in periodo_reveillon[i]
+        ]
+        set_particoes_reveillon.update(particoes_periodo)
+
+    list_particoes_reveillon = list(set_particoes_reveillon)
+
+    set_particoes_carnaval = set()
+    for i in range(len(periodo_carnaval)):
+        particoes_periodo = [
+            pd.to_datetime(data).to_numpy().astype('datetime64[M]')
+            for data
+            in periodo_carnaval[i]
+        ]
+        set_particoes_carnaval.update(particoes_periodo)
+
+    list_particoes_carnaval = list(set_particoes_carnaval)
+
+    set_particoes_rockrio = set()
+    for i in range(len(periodo_rockrio)):
+        particoes_periodo = [
+            pd.to_datetime(data).to_numpy().astype('datetime64[M]')
+            for data
+            in periodo_rockrio[i]
+        ]
+        set_particoes_rockrio.update(particoes_periodo)
+
+    list_particoes_rockrio = list(set_particoes_rockrio)
+
+    # Este e os dois loops abaixo, de mesma identação, fazem a soma dos chamados feitos em cada evento,
+    # do determinado subtipo.
+    soma_reveillon = 0
+    for particao in list_particoes_reveillon:
+        dados_particao = chamados_2021_2022_2023[chamados_2021_2022_2023["data_particao"] == particao]
+
+        for periodo in periodo_reveillon:
+            chamados_reveillon = [
+                # Nota-se que abaixo é utilizado a mesma lógica explicada na questão 6
+                sum((dados_particao[dados_particao["data_inicio"].dt.date == data]["subtipo"] == "Perturbação do sossego").values.tolist())
+                for data
+                in periodo
+            ]
+
+            # Adiciona-se à soma total, a soma do número de chamados feitos em cada período do evento
+            soma_reveillon += sum(chamados_reveillon)
+
+    soma_carnaval = 0
+    for particao in list_particoes_carnaval:
+        dados_particao = chamados_2021_2022_2023[chamados_2021_2022_2023["data_particao"] == particao]
+
+        for periodo in periodo_carnaval:
+            chamados_carnaval = [
+                sum((dados_particao[dados_particao["data_inicio"].dt.date == data]["subtipo"] == "Perturbação do sossego").values.tolist())
+                for data
+                in periodo
+            ]
+
+            soma_carnaval += sum(chamados_carnaval)
+
+    soma_rockrio = 0
+    for particao in list_particoes_rockrio:
+        dados_particao = chamados_2021_2022_2023[chamados_2021_2022_2023["data_particao"] == particao]
+
+        for periodo in periodo_rockrio:
+            chamados_rockrio = [
+                sum((dados_particao[dados_particao["data_inicio"].dt.date == data]["subtipo"] == "Perturbação do sossego").values.tolist())
+                for data
+                in periodo
+            ]
+
+            soma_rockrio += sum(chamados_rockrio)
+
+    print("Número de chamados no Reveillon: ", soma_reveillon)
+    print("Número de chamados no Carnaval: ", soma_carnaval)
+    print("Número de chamados no Rock in Rio: ", soma_rockrio)
+    '''
+    exp_py_ans8.code(py_ans8, language="python")
 
     st.write('##### 9. Qual evento teve a maior média diária de chamados abertos desse subtipo?')
 
@@ -494,6 +848,118 @@ with st.container(border=True):
         WHERE data_particao = "2022-09-01" AND ((CAST(data_inicio AS DATE) BETWEEN "2022-09-02" AND "2022-09-04") OR (CAST(data_inicio AS DATE) BETWEEN "2022-09-08" AND "2022-09-11")) AND subtipo = "Perturbação do sossego";
     '''
     exp_sql_ans9.code(sql_ans9, language="sql")
+
+    exp_py_ans9 = st.expander("Código")
+    py_ans9 = '''
+    dados_reveillon = eventos.loc[eventos["evento"] == "Reveillon"]
+    dados_carnaval = eventos.loc[eventos["evento"] == "Carnaval"]
+    dados_rockrio = eventos.loc[eventos["evento"] == "Rock in Rio"]
+
+    # Asim como na questão 7, este e os dois loops abaixo definem o período dos eventos.
+    # Além disso, para questão 9 faz-se a contagem dos dias nestes períodos.
+    periodo_reveillon = []
+    num_dias_reveillon = 0
+    for i in range(len(dados_reveillon)):
+        datas_reveillon = pd.date_range(dados_reveillon.iat[i, 0], dados_reveillon.iat[i, 1]).date.tolist()
+        periodo_reveillon.append(datas_reveillon)
+        num_dias_reveillon += len(datas_reveillon)
+
+    num_dias_carnaval = 0
+    periodo_carnaval = []
+    for i in range(len(dados_carnaval)):
+        datas_carnaval = pd.date_range(dados_carnaval.iat[i, 0], dados_carnaval.iat[i, 1]).date.tolist()
+        periodo_carnaval.append(datas_carnaval)
+        num_dias_carnaval += len(datas_carnaval)
+
+    num_dias_rockrio = 0
+    periodo_rockrio = []
+    for i in range(len(dados_rockrio)):
+        datas_rockrio = pd.date_range(dados_rockrio.iat[i, 0], dados_rockrio.iat[i, 1]).date.tolist()
+        periodo_rockrio.append(datas_rockrio)
+        num_dias_rockrio += len(datas_rockrio)
+
+    # Definição das partições para cada evento
+    set_particoes_reveillon = set()
+    for i in range(len(periodo_reveillon)):
+        particoes_periodo = [
+            pd.to_datetime(data).to_numpy().astype('datetime64[M]')
+            for data
+            in periodo_reveillon[i]
+        ]
+        set_particoes_reveillon.update(particoes_periodo)
+
+    list_particoes_reveillon = list(set_particoes_reveillon)
+
+    set_particoes_carnaval = set()
+    for i in range(len(periodo_carnaval)):
+        particoes_periodo = [
+            pd.to_datetime(data).to_numpy().astype('datetime64[M]')
+            for data
+            in periodo_carnaval[i]
+        ]
+        set_particoes_carnaval.update(particoes_periodo)
+
+    list_particoes_carnaval = list(set_particoes_carnaval)
+
+    set_particoes_rockrio = set()
+    for i in range(len(periodo_rockrio)):
+        particoes_periodo = [
+            pd.to_datetime(data).to_numpy().astype('datetime64[M]')
+            for data
+            in periodo_rockrio[i]
+        ]
+        set_particoes_rockrio.update(particoes_periodo)
+
+    list_particoes_rockrio = list(set_particoes_rockrio)
+
+    # Este e os dois loops abaixo, de mesma identação, fazem a soma dos chamados feitos em cada evento,
+    # do determinado subtipo.
+    soma_reveillon = 0
+    for particao in list_particoes_reveillon:
+        dados_particao = chamados_2021_2022_2023[chamados_2021_2022_2023["data_particao"] == particao]
+
+        for periodo in periodo_reveillon:
+            chamados_reveillon = [
+                # Nota-se que abaixo é utilizado a mesma lógica explicada na questão 6
+                sum((dados_particao[dados_particao["data_inicio"].dt.date == data]["subtipo"] == "Perturbação do sossego").values.tolist())
+                for data
+                in periodo
+            ]
+
+            # Adiciona-se à soma total, a soma do número de chamados feitos em cada período do evento
+            soma_reveillon += sum(chamados_reveillon)
+
+    soma_carnaval = 0
+    for particao in list_particoes_carnaval:
+        dados_particao = chamados_2021_2022_2023[chamados_2021_2022_2023["data_particao"] == particao]
+
+        for periodo in periodo_carnaval:
+            chamados_carnaval = [
+                sum((dados_particao[dados_particao["data_inicio"].dt.date == data]["subtipo"] == "Perturbação do sossego").values.tolist())
+                for data
+                in periodo
+            ]
+
+            soma_carnaval += sum(chamados_carnaval)
+
+    soma_rockrio = 0
+    for particao in list_particoes_rockrio:
+        dados_particao = chamados_2021_2022_2023[chamados_2021_2022_2023["data_particao"] == particao]
+
+        for periodo in periodo_rockrio:
+            chamados_rockrio = [
+                sum((dados_particao[dados_particao["data_inicio"].dt.date == data]["subtipo"] == "Perturbação do sossego").values.tolist())
+                for data
+                in periodo
+            ]
+
+            soma_rockrio += sum(chamados_rockrio)
+
+    print("Média Reveillon: ", soma_reveillon/num_dias_reveillon)
+    print("Média Carnaval: ", soma_carnaval/num_dias_carnaval)
+    print("Média Rock in Rio: ", soma_rockrio/num_dias_rockrio)
+    '''
+    exp_py_ans9.code(py_ans9, language="python")
 
     with st.container(border=True):
         st.markdown(
@@ -591,3 +1057,31 @@ with st.container(border=True):
             WHERE (data_particao BETWEEN "2022-01-01" AND "2023-12-01") AND subtipo = "Perturbação do sossego" GROUP BY CAST(data_inicio AS DATE));
     '''
     exp_sql_ans10.code(sql_ans10, language="sql")
+
+    exp_py_ans10 = st.expander("Código")
+    py_ans10 = '''
+    data_particoes = pd.date_range(start="01/01/2022",end="31/12/2023", freq="MS").date
+
+    soma_chamados = 0
+    numero_dias = 0
+    for particao in data_particoes:
+        dados_particao = chamados_2021_2022_2023[chamados_2021_2022_2023["data_particao"] == particao]
+        dias = dados_particao["data_inicio"].dt.date.unique()
+
+        chamados_subtipo_dia_mes = [
+            sum((dados_particao[dados_particao["data_inicio"].dt.date == dia]["subtipo"] == "Perturbação do sossego").values.tolist()
+            )
+            for dia
+            in dias
+        ]
+
+        soma_chamados += sum(chamados_subtipo_dia_mes)
+
+        # Define-se o número de dias válidos (contidos na partição e com o determinado subtipo) através da contagem de valores diferentes
+        # de 0 (len(lista) - lista.count(0)). chamados_subtipo_dia_mes contém o número de chamados feitos em cada dia de uma partição.
+        # len(chamados_subtipo_dia_mes) retorna o número de dias na partição.
+        numero_dias += len(chamados_subtipo_dia_mes) - chamados_subtipo_dia_mes.count(0)
+
+    print("Média diária do subtipo de 01/01/2022 até 31/12/2023: ", soma_chamados/numero_dias)
+    '''
+    exp_py_ans10.code(py_ans10, language="python")
