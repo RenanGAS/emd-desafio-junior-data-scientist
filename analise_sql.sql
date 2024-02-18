@@ -1,5 +1,5 @@
 -- Desafio Técnico
--- Recomenda-se realizar a execução dos scripts na plataforma **BigQuery**. As instruções para execução estão em [InstrucoesExecucao.md](InstrucoesExecucao.md)
+-- Recomenda-se realizar a execução dos scripts na plataforma **BigQuery**. As instruções para execução estão em InstrucoesExecucao.md
 
 -- 1. Quantos chamados foram abertos no dia 01/04/2023?
 
